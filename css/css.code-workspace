@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../fonts"
+		},
+		{
+			"path": "../img"
+		},
+		{
+			"path": "../js"
+		},
+		{
+			"path": "../quform"
+		},
+		{
+			"path": "../search"
+		}
+	]
+}
