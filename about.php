@@ -227,8 +227,9 @@
                                     <span>01</span>
                                 </div>
                                 <h5>Design</h5>
-                                <p class="w-lg-80 mx-auto mb-0">Lorem ipsum dolor sit amet, consectetur notted
-                                    adipisicing.</p>
+                                <p class="w-lg-80 mx-auto mb-0">"Develop strategic solutions to fuel business success."
+
+</p>
                             </div>
                         </div>
 
@@ -239,8 +240,9 @@
                                     <span>02</span>
                                 </div>
                                 <h5>Strategy</h5>
-                                <p class="w-lg-80 mx-auto mb-0">Lorem ipsum dolor sit amet, consectetur notted
-                                    adipisicing.</p>
+                                <p class="w-lg-80 mx-auto mb-0">"Maximize growth by innovating and prioritizing customer needs."
+
+.</p>
                             </div>
                         </div>
 
@@ -251,8 +253,9 @@
                                     <span>03</span>
                                 </div>
                                 <h5>Develop</h5>
-                                <p class="w-lg-80 mx-auto mb-0">Lorem ipsum dolor sit amet, consectetur notted
-                                    adipisicing.</p>
+                                <p class="w-lg-80 mx-auto mb-0">"Develop cutting-edge solutions to enhance business performance."
+
+</p>
                             </div>
                         </div>
                     </div>
@@ -345,7 +348,7 @@
                                 <p class="mb-0 small text-primary">UX/UI Designer</p>
                             </div>
                         </div>
-                    </div>
+                    </div> 
                     <div class="col-sm-6 col-lg-4 mt-1-9 wow fadeInUp" data-wow-delay="400ms">
                         <div class="team-style01 rounded">
                             <div class="image rounded">
