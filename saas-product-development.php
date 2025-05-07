@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from flywebhtml.websitelayout.net/service-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Sep 2023 14:01:15 GMT -->
+<!-- Mirrored from flywebhtml.websitelayout.net/service-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Sep 2023 14:01:15 GMT -->
 
 <head>
 
@@ -274,12 +274,12 @@
                 </a>
             </div>
 
+            </div>
 
             <!-- FOOTER
         ================================================== -->
             <?php include 'footer.php';?>
 
-        </div>
 
         <!-- BUY TEMPLATE
     ================================================== -->
@@ -322,6 +322,6 @@
 </body>
 
 
-<!-- Mirrored from flywebhtml.websitelayout.net/service-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Sep 2023 14:01:15 GMT -->
+<!-- Mirrored from flywebhtml.websitelayout.net/service-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Sep 2023 14:01:15 GMT -->
 
 </html>
