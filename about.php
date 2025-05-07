@@ -327,7 +327,7 @@
 
         <!-- OUR TEAM
         ================================================== -->
-        <section>
+        <!-- <section>
             <div class="container">
                 <div class="section-title mb-1-9 mb-md-6 text-center">
                     <span class="sm-title">Our Team</span>
@@ -372,7 +372,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <!-- FOOTER
         ================================================== -->
