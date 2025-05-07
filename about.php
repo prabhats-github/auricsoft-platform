@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from flywebhtml.websitelayout.net/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Sep 2023 14:01:06 GMT -->
+<!-- Mirrored from flywebhtml.websitelayout.net/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Sep 2023 14:01:06 GMT -->
 
 <head>
 
@@ -63,7 +63,7 @@
                                 <h1>About Us</h1>
                             </div>
                             <ul>
-                                <li><a href="index.html">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li><a href="#!">About Us</a></li>
                             </ul>
                         </div>
@@ -137,7 +137,7 @@
                                 </div>
                             </div>
                             <div class="d-flex align-items-center">
-                                <a href="contact.html" class="btn-style1"><span>Get Started</span></a>
+                                <a href="contact.php" class="btn-style1"><span>Get Started</span></a>
 
                             </div>
                         </div>
@@ -158,7 +158,7 @@
                                 <span class="sm-title">Why Choose Us</span>
                                 <h2 class="mb-0 h1 text-white">Our company is trusted by hundreds of customers.</h2>
                             </div>
-                            <a href="contact.html" class="btn-style1 white-hover"><span>Get Free Quote</span></a>
+                            <a href="contact.php" class="btn-style1 white-hover"><span>Get Free Quote</span></a>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -340,11 +340,11 @@
                     <div class="col-sm-6 col-lg-4 mt-1-9 wow fadeInUp" data-wow-delay="200ms">
                         <div class="team-style01 rounded">
                             <div class="image rounded">
-                                <a href="team-details.html"><img src="img/team/team-05.jpg" alt="..."
+                                <a href="team-details.php"><img src="img/team/team-05.jpg" alt="..."
                                         class="rounded"></a>
                             </div>
                             <div class="text-start bg-light p-4">
-                                <h3 class="mb-1"><a href="team-details.html">Maya Paschke</a></h3>
+                                <h3 class="mb-1"><a href="team-details.php">Maya Paschke</a></h3>
                                 <p class="mb-0 small text-primary">UX/UI Designer</p>
                             </div>
                         </div>
@@ -352,11 +352,11 @@
                     <div class="col-sm-6 col-lg-4 mt-1-9 wow fadeInUp" data-wow-delay="400ms">
                         <div class="team-style01 rounded">
                             <div class="image rounded">
-                                <a href="team-details.html"><img src="img/team/team-03.jpg" alt="..."
+                                <a href="team-details.php"><img src="img/team/team-03.jpg" alt="..."
                                         class="rounded"></a>
                             </div>
                             <div class="text-start bg-light p-4">
-                                <h3 class="mb-1"><a href="team-details.html">Archie Symes</a></h3>
+                                <h3 class="mb-1"><a href="team-details.php">Archie Symes</a></h3>
                                 <p class="mb-0 small text-primary">Web Designer</p>
                             </div>
                         </div>
@@ -364,11 +364,11 @@
                     <div class="col-sm-6 col-lg-4 mt-1-9 wow fadeInUp" data-wow-delay="600ms">
                         <div class="team-style01 rounded">
                             <div class="image rounded">
-                                <a href="team-details.html"><img src="img/team/team-06.jpg" alt="..."
+                                <a href="team-details.php"><img src="img/team/team-06.jpg" alt="..."
                                         class="rounded"></a>
                             </div>
                             <div class="text-start bg-light p-4">
-                                <h3 class="mb-1"><a href="team-details.html">Summer Meldrum</a></h3>
+                                <h3 class="mb-1"><a href="team-details.php">Summer Meldrum</a></h3>
                                 <p class="mb-0 small text-primary">Senior Marketer</p>
                             </div>
                         </div>
@@ -425,6 +425,6 @@
 </body>
 
 
-<!-- Mirrored from flywebhtml.websitelayout.net/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Sep 2023 14:01:10 GMT -->
+<!-- Mirrored from flywebhtml.websitelayout.net/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Sep 2023 14:01:10 GMT -->
 
 </html>

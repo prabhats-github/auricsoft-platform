@@ -60,7 +60,7 @@
                                 <div class="mt-5 mt-sm-0">
                                     <p class="mb-2 text-primary text-uppercase letter-spacing-4 d-block mb-2 font-weight-700">Strategic . Innovate . Excellence</p>
                                     <h1 class="mb-2-9  text-white text-uppercase">Software Development</h1>
-                                    <a href="contact.html" class="btn-style1 white-hover"><span>Get Started</span></a>
+                                    <a href="contact.php" class="btn-style1 white-hover"><span>Get Started</span></a>
                                 </div>
                             </div>
                         </div>
@@ -73,7 +73,7 @@
                                 <div class="mt-5 mt-sm-0">
                                     <p class="mb-2 text-primary text-uppercase letter-spacing-4 d-block mb-2 font-weight-700">Strategic . Innovate . Excellence</p>
                                     <h1 class="mb-2-9  text-white text-uppercase">Blockchain Development</h1>
-                                    <a href="contact.html" class="btn-style1 white-hover"><span>Get Started</span></a>
+                                    <a href="contact.php" class="btn-style1 white-hover"><span>Get Started</span></a>
                                 </div>
                             </div>
                         </div>
@@ -86,7 +86,7 @@
                                 <div class="mt-5 mt-sm-0">
                                     <p class="mb-2 text-primary text-uppercase letter-spacing-4 d-block mb-2 font-weight-700">Strategic . Innovate . Excellence</p>
                                     <h1 class="mb-2-9 text-white text-uppercase">AI Development</h1>
-                                    <a href="contact.html" class="btn-style1 white-hover"><span>Get Started</span></a>
+                                    <a href="contact.php" class="btn-style1 white-hover"><span>Get Started</span></a>
                                 </div>
                             </div>
                         </div>
@@ -113,7 +113,7 @@
                                 <h3 class="h2 mb-3"><a href="service-details.php">Web Application<br>Development</a></h3>
                                 <div class="card-content">
                                     <p>Web application development creates interactive and scalable solutions for diverse user needs.</p>
-                                    <a class="text-secondary text-primary-hover text-uppercase small letter-spacing-4 ms-1 font-weight-700" href="service-details.html">Read more</a>
+                                    <a class="text-secondary text-primary-hover text-uppercase small letter-spacing-4 ms-1 font-weight-700" href="service-details.php">Read more</a>
                                 </div>
                             </div>
                         </div>
@@ -127,7 +127,7 @@
                                 <h3 class="h2 mb-3"><a href="service-details.php">Mobile Apps<br> Development</a></h3>
                                 <div class="card-content">
                                     <p>Mobile application development builds user-centric apps optimized for performance across smartphones and tablets.</p>
-                                    <a class="text-secondary text-primary-hover text-uppercase small letter-spacing-4 ms-1 font-weight-700" href="service-details.html">Read more</a>
+                                    <a class="text-secondary text-primary-hover text-uppercase small letter-spacing-4 ms-1 font-weight-700" href="service-details.php">Read more</a>
                                 </div>
                             </div>
                         </div>
@@ -138,10 +138,10 @@
                                 <img src="img/icons/15.png" alt="...">
                             </span>                            
                             <div class="overflow-hidden position-relative z-index-9">
-                                <h3 class="h2 mb-3"><a href="service-details.html">SaaS Product<br> Development</a></h3>
+                                <h3 class="h2 mb-3"><a href="service-details.php">SaaS Product<br> Development</a></h3>
                                 <div class="card-content">
                                     <p>SaaS development creates scalable software solutions delivered via the cloud, offering flexible and on-demand access.</p>
-                                    <a class="text-secondary text-primary-hover text-uppercase small letter-spacing-4 ms-1 font-weight-700" href="service-details.html">Read more</a>
+                                    <a class="text-secondary text-primary-hover text-uppercase small letter-spacing-4 ms-1 font-weight-700" href="service-details.php">Read more</a>
                                 </div>
                             </div>
                         </div>
@@ -532,11 +532,11 @@
                             </div>
                             <div class="card-body p-1-6 p-sm-1-9">
                                 <span class="text-primary d-block mb-2 font-weight-600">June 01, 2023</span>
-                                <h3 class="h4 mb-0"><a href="blog-details.html">The Reasons Why We Love Web Design Agency.</a></h3>
+                                <h3 class="h4 mb-0"><a href="blog-details.php">The Reasons Why We Love Web Design Agency.</a></h3>
                             </div>
                             <div class="d-flex fw-bold border-top px-1-6 px-sm-1-9 py-3 border-color-light-black justify-content-between">
-                                <a href="blog-details.html">Read more</a>
-                                <a href="blog-details.html"><i class="ti-arrow-right"></i></a>
+                                <a href="blog-details.php">Read more</a>
+                                <a href="blog-details.php"><i class="ti-arrow-right"></i></a>
                             </div>
                         </article>
                     </div>
@@ -550,11 +550,11 @@
                             </div>
                             <div class="card-body p-1-6 p-sm-1-9">
                                 <span class="text-primary d-block mb-2 font-weight-600">May 29, 2023</span>
-                                <h3 class="h4 mb-0"><a href="blog-details.html">How To Own Web Design Agency For Free.</a></h3>
+                                <h3 class="h4 mb-0"><a href="blog-details.php">How To Own Web Design Agency For Free.</a></h3>
                             </div>
                             <div class="d-flex fw-bold border-top px-1-6 px-sm-1-9 py-3 border-color-light-black justify-content-between">
-                                <a href="blog-details.html">Read more</a>
-                                <a href="blog-details.html"><i class="ti-arrow-right"></i></a>
+                                <a href="blog-details.php">Read more</a>
+                                <a href="blog-details.php"><i class="ti-arrow-right"></i></a>
                             </div>
                         </article>
                     </div>
@@ -568,11 +568,11 @@
                             </div>
                             <div class="card-body p-1-6 p-sm-1-9">
                                 <span class="text-primary d-block mb-2 font-weight-600">May 25, 2023</span>
-                                <h3 class="h4 mb-0"><a href="blog-details.html">Five Latest Developments In Web Agency.</a></h3>
+                                <h3 class="h4 mb-0"><a href="blog-details.php">Five Latest Developments In Web Agency.</a></h3>
                             </div>
                             <div class="d-flex fw-bold border-top px-1-6 px-sm-1-9 py-3 border-color-light-black justify-content-between">
-                                <a href="blog-details.html">Read more</a>
-                                <a href="blog-details.html"><i class="ti-arrow-right"></i></a>
+                                <a href="blog-details.php">Read more</a>
+                                <a href="blog-details.php"><i class="ti-arrow-right"></i></a>
                             </div>
                         </article>
                     </div>
