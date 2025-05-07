@@ -90,7 +90,9 @@
                             <div class="section-title mb-1-9">
                                 <span class="sm-title">About Us</span>
                                 <h2 class="mb-3 h1">We offer the best design services in town.</h2>
-                                <p class="mb-0">Discover unparalleled design excellence with our top-tier services. Our expert team blends creativity and strategy to deliver innovative solutions tailored to your needs. Elevate your brand's visual identity and impact with our premier design services.</p>
+                                <p class="mb-0">At Auricsoft Platform, we are passionate about crafting digital experiences that drive growth and elevate brands. As a leading company in website design and development, we specialize in delivering high-quality, mobile-responsive, and budget-friendly solutions that help our clients succeed in the digital world.
+
+</p>
                             </div>
                             <div class="row align-items-center justify-content-center mb-1-9">
                                 <div class="col-xl-8">
@@ -124,10 +126,7 @@
                             </div>
                             <div class="d-flex align-items-center">
                                 <a href="contact.html" class="btn-style1"><span>Get Started</span></a>
-                                <div class="ms-4">
-                                    <h4>Zac Sowerby</h4>
-                                    <p class="mb-0">Co Founder</p>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
