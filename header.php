@@ -26,12 +26,12 @@
                                         <li>
                                             <a href="#">Services</a>
                                             <ul>
-                                                <li><a href="service-details.html">Web Application Development</a></li>
-                                                <li><a href="service-details.html">Mobile Apps Developent</a></li>
-                                                <li><a href="service-details.html">SaaS Product Developent</a></li>
-                                                <li><a href="service-details.html">Blockchain Developent</a></li>
-                                                <li><a href="service-details.html">AI Software Developent</a></li>
-                                                <li><a href="service-details.html">API Developent</a></li>
+                                                <li><a href="web-development-services.html">Web Application Development</a></li>
+                                                <li><a href="mobile-app-development.html">Mobile Apps Developent</a></li>
+                                                <li><a href="saas-product-development.html">SaaS Product Developent</a></li>
+                                                <li><a href="blockchain-development.html">Blockchain Developent</a></li>
+                                                <li><a href="ai-software-development.html">AI Software Developent</a></li>
+                                                <li><a href="api-development.html">API Developent</a></li>
                                             </ul>
                                         </li>
                                         <li>
