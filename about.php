@@ -3,6 +3,7 @@
 
 
 <!-- Mirrored from flywebhtml.websitelayout.net/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Sep 2023 14:01:06 GMT -->
+
 <head>
 
     <!-- metas -->
@@ -52,7 +53,8 @@
 
         <!-- PAGE TITLE
         ================================================== -->
-        <section class="page-title-section top-position1 bg-img cover-background left-overlay-secondary" data-overlay-dark="6" data-background="img/content/about1.jpg">
+        <section class="page-title-section top-position1 bg-img cover-background left-overlay-secondary"
+            data-overlay-dark="6" data-background="img/content/about1.jpg">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -78,23 +80,29 @@
                     <div class="col-lg-6 mt-2-9">
                         <div class="about-style3 position-relative text-center text-sm-start me-lg-6 me-xl-8">
                             <img src="img/content/about_06.jpg" class="mb-sm-15 border-radius-10" alt="...">
-                            <img src="img/content/about-07.jpg" class="position-absolute bottom-0 end-0 bg-white p-2 border-radius-10 d-none d-sm-block" alt="...">
+                            <img src="img/content/about-07.jpg"
+                                class="position-absolute bottom-0 end-0 bg-white p-2 border-radius-10 d-none d-sm-block"
+                                alt="...">
                             <!-- <img src="img/content/about-08.jpg" class="position-absolute top-5 right-5 border-radius-10 d-none d-sm-block" alt="..."> -->
-                            <div class="bg-white border-primary-color border border-width-3 p-4 border-radius-10 about-quote ani-left-right d-none d-sm-block">
-                                <p class="mb-0 text-secondary">""Turning complex ideas into powerful digital solutions."
+                            <div
+                                class="bg-white border-primary-color border border-width-3 p-4 border-radius-10 about-quote ani-left-right d-none d-sm-block">
+                                <p class="mb-0 text-secondary">"Turning complex ideas into powerful digital solutions."
 
-" <span class="fw-bold">- Julian Tout</span></p>
+                                     <span class="fw-bold"></span></p>
                             </div>
-                        </div>                        
+                        </div>
                     </div>
                     <div class="col-lg-6 mt-2-9">
                         <div>
                             <div class="section-title mb-1-9">
                                 <span class="sm-title">About Us</span>
                                 <h2 class="mb-3 h1">We offer the best design services in town.</h2>
-                                <p class="mb-0">At Auricsoft Platform, we are passionate about crafting digital experiences that drive growth and elevate brands. As a leading company in website design and development, we specialize in delivering high-quality, mobile-responsive, and budget-friendly solutions that help our clients succeed in the digital world.
+                                <p class="mb-0">At Auricsoft Platform, we are passionate about crafting digital
+                                    experiences that drive growth and elevate brands. As a leading company in website
+                                    design and development, we specialize in delivering high-quality, mobile-responsive,
+                                    and budget-friendly solutions that help our clients succeed in the digital world.
 
-</p>
+                                </p>
                             </div>
                             <div class="row align-items-center justify-content-center mb-1-9">
                                 <div class="col-xl-8">
@@ -104,7 +112,8 @@
                                         </div>
                                         <div class="flex-grow-1">
                                             <h4>Web solutions</h4>
-                                            <p>Innovative web solutions tailored to enhance your company's online presence.</p>
+                                            <p>Innovative web solutions tailored to enhance your company's online
+                                                presence.</p>
                                         </div>
                                     </div>
                                     <div class="d-flex justify-content-center">
@@ -113,7 +122,8 @@
                                         </div>
                                         <div class="flex-grow-1">
                                             <h4>Best interface</h4>
-                                            <p class="mb-0">Exceptional interfaces designed to enhance your company's user experience and engagement.</p>
+                                            <p class="mb-0">Exceptional interfaces designed to enhance your company's
+                                                user experience and engagement.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -128,7 +138,7 @@
                             </div>
                             <div class="d-flex align-items-center">
                                 <a href="contact.html" class="btn-style1"><span>Get Started</span></a>
-                                
+
                             </div>
                         </div>
                     </div>
@@ -138,7 +148,8 @@
 
         <!-- WHY CHOOSE US
         ================================================== -->
-        <section class="bg-img cover-background pb-0 pt-lg-0 secondary-overlay" data-overlay-dark="8" data-background="img/bg/bg-02.jpg">
+        <section class="bg-img cover-background pb-0 pt-lg-0 secondary-overlay" data-overlay-dark="8"
+            data-background="img/bg/bg-02.jpg">
             <div class="container position-relative z-index-9">
                 <div class="row align-items-center">
                     <div class="col-lg-6 mb-2-9 mb-lg-0">
@@ -216,7 +227,8 @@
                                     <span>01</span>
                                 </div>
                                 <h5>Design</h5>
-                                <p class="w-lg-80 mx-auto mb-0">Lorem ipsum dolor sit amet, consectetur notted adipisicing.</p>
+                                <p class="w-lg-80 mx-auto mb-0">Lorem ipsum dolor sit amet, consectetur notted
+                                    adipisicing.</p>
                             </div>
                         </div>
 
@@ -227,7 +239,8 @@
                                     <span>02</span>
                                 </div>
                                 <h5>Strategy</h5>
-                                <p class="w-lg-80 mx-auto mb-0">Lorem ipsum dolor sit amet, consectetur notted adipisicing.</p>
+                                <p class="w-lg-80 mx-auto mb-0">Lorem ipsum dolor sit amet, consectetur notted
+                                    adipisicing.</p>
                             </div>
                         </div>
 
@@ -238,7 +251,8 @@
                                     <span>03</span>
                                 </div>
                                 <h5>Develop</h5>
-                                <p class="w-lg-80 mx-auto mb-0">Lorem ipsum dolor sit amet, consectetur notted adipisicing.</p>
+                                <p class="w-lg-80 mx-auto mb-0">Lorem ipsum dolor sit amet, consectetur notted
+                                    adipisicing.</p>
                             </div>
                         </div>
                     </div>
@@ -323,7 +337,8 @@
                     <div class="col-sm-6 col-lg-4 mt-1-9 wow fadeInUp" data-wow-delay="200ms">
                         <div class="team-style01 rounded">
                             <div class="image rounded">
-                                <a href="team-details.html"><img src="img/team/team-05.jpg" alt="..." class="rounded"></a>
+                                <a href="team-details.html"><img src="img/team/team-05.jpg" alt="..."
+                                        class="rounded"></a>
                             </div>
                             <div class="text-start bg-light p-4">
                                 <h3 class="mb-1"><a href="team-details.html">Maya Paschke</a></h3>
@@ -334,7 +349,8 @@
                     <div class="col-sm-6 col-lg-4 mt-1-9 wow fadeInUp" data-wow-delay="400ms">
                         <div class="team-style01 rounded">
                             <div class="image rounded">
-                                <a href="team-details.html"><img src="img/team/team-03.jpg" alt="..." class="rounded"></a>
+                                <a href="team-details.html"><img src="img/team/team-03.jpg" alt="..."
+                                        class="rounded"></a>
                             </div>
                             <div class="text-start bg-light p-4">
                                 <h3 class="mb-1"><a href="team-details.html">Archie Symes</a></h3>
@@ -345,7 +361,8 @@
                     <div class="col-sm-6 col-lg-4 mt-1-9 wow fadeInUp" data-wow-delay="600ms">
                         <div class="team-style01 rounded">
                             <div class="image rounded">
-                                <a href="team-details.html"><img src="img/team/team-06.jpg" alt="..." class="rounded"></a>
+                                <a href="team-details.html"><img src="img/team/team-06.jpg" alt="..."
+                                        class="rounded"></a>
                             </div>
                             <div class="text-start bg-light p-4">
                                 <h3 class="mb-1"><a href="team-details.html">Summer Meldrum</a></h3>
@@ -359,7 +376,7 @@
 
         <!-- FOOTER
         ================================================== -->
-        
+
         <?php include 'footer.php';?>
 
     </div>
@@ -406,4 +423,5 @@
 
 
 <!-- Mirrored from flywebhtml.websitelayout.net/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Sep 2023 14:01:10 GMT -->
+
 </html>
