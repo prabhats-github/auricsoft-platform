@@ -3,7 +3,7 @@
                 <div class="row mt-n2-9 pb-6 pb-lg-8">
                     <div class="col-md-6 col-lg-5 mt-2-9 wow fadeIn" data-wow-delay="200ms">
                         <div class="footer-logo mb-1-9">
-                            <a href="index.html"><img src="img/logos/logo-inner.png" alt="..."></a>
+                            <a href="index.php"><img src="img/logos/logo-inner.png" alt="..."></a>
                         </div>
                         <h4 class="text-white mb-1-9 fw-light w-lg-75 display-27 lh-base opacity8">We have been most trusted web design agency since 25+ years.</h4>
                         <ul class="social-icon-style1">

@@ -13,7 +13,7 @@
                                 <nav class="navbar navbar-expand-lg navbar-light p-0">
                                     <div class="navbar-header navbar-header-custom">
                                         <!-- start logo -->
-                                        <a href="index.html" class="navbar-brand"><img id="logo" src="img/logos/auricsoft-logo-w.png" alt="logo" /></a>
+                                        <a href="index.php" class="navbar-brand"><img id="logo" src="img/logos/auricsoft-logo-w.png" alt="logo" /></a>
                                         <!-- end logo -->
                                     </div>
 
@@ -26,23 +26,23 @@
                                         <li>
                                             <a href="#">Services</a>
                                             <ul>
-                                                <li><a href="web-development-services.html">Web Application Development</a></li>
-                                                <li><a href="mobile-app-development.html">Mobile Apps Developent</a></li>
-                                                <li><a href="saas-product-development.html">SaaS Product Developent</a></li>
-                                                <li><a href="blockchain-development.html">Blockchain Developent</a></li>
-                                                <li><a href="ai-software-development.html">AI Software Developent</a></li>
-                                                <li><a href="api-development.html">API Developent</a></li>
+                                                <li><a href="web-development-services.php">Web Application Development</a></li>
+                                                <li><a href="mobile-app-development.php">Mobile Apps Developent</a></li>
+                                                <li><a href="saas-product-development.php">SaaS Product Developent</a></li>
+                                                <li><a href="blockchain-development.php">Blockchain Developent</a></li>
+                                                <li><a href="ai-software-development.php">AI Software Developent</a></li>
+                                                <li><a href="api-development.php">API Developent</a></li>
                                             </ul>
                                         </li>
                                         <li>
                                             <a href="#">Products</a>
                                             <ul>
-                                                <li><a href="service-details.html">School ERP</a></li>
-                                                <li><a href="service-details.html">Jwellery Store ERP</a></li>
-                                                <li><a href="service-details.html">Ecommerce Software</a></li>
-                                                <li><a href="service-details.html">E-Procurement Software</a></li>
-                                                <li><a href="service-details.html">ERP</a></li>
-                                                <li><a href="service-details.html">CRM</a></li>
+                                                <li><a href="service-details.php">School ERP</a></li>
+                                                <li><a href="service-details.php">Jwellery Store ERP</a></li>
+                                                <li><a href="service-details.php">Ecommerce Software</a></li>
+                                                <li><a href="service-details.php">E-Procurement Software</a></li>
+                                                <li><a href="service-details.php">ERP</a></li>
+                                                <li><a href="service-details.php">CRM</a></li>
                                             </ul>
                                         </li>
                                        
@@ -65,7 +65,7 @@
                                     <div class="attr-nav align-items-xl-center ms-xl-auto main-font">
                                         <ul>
                                            
-                                            <li class="d-none d-xl-inline-block"><a href="contact.html" class="btn-style1 white-hover small"><span>Free Quote</span></a></li>
+                                            <li class="d-none d-xl-inline-block"><a href="contact.php" class="btn-style1 white-hover small"><span>Free Quote</span></a></li>
                                         </ul>
                                     </div>
                                     <!-- end attribute navigation -->
