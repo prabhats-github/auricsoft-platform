@@ -81,7 +81,9 @@
                             <img src="img/content/about-07.jpg" class="position-absolute bottom-0 end-0 bg-white p-2 border-radius-10 d-none d-sm-block" alt="...">
                             <!-- <img src="img/content/about-08.jpg" class="position-absolute top-5 right-5 border-radius-10 d-none d-sm-block" alt="..."> -->
                             <div class="bg-white border-primary-color border border-width-3 p-4 border-radius-10 about-quote ani-left-right d-none d-sm-block">
-                                <p class="mb-0 text-secondary">"If you want real marketing that works and effective effect - Flyweb got you covered." <span class="fw-bold">- Julian Tout</span></p>
+                                <p class="mb-0 text-secondary">""Turning complex ideas into powerful digital solutions."
+
+" <span class="fw-bold">- Julian Tout</span></p>
                             </div>
                         </div>                        
                     </div>
