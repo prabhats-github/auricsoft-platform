@@ -54,7 +54,7 @@
         <!-- PAGE TITLE
         ================================================== -->
         <section class="page-title-section top-position1 bg-img cover-background left-overlay-secondary"
-            data-overlay-dark="6" data-background="img/content/about1.jpg">
+            data-overlay-dark="6" data-background="img/content/about-banner.jpg">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
