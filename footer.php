@@ -64,7 +64,7 @@
                                 </div>
                                 <div class="flex-grow-1 ms-3">
                                     <h4 class="mb-1 h5 text-white">Mail Us</h4>
-                                    <p class="mb-0 text-white"><a href="mailto:info@auricsoft.com">info@auricsoft.com</a> </p>
+                                    <p class="mb-0 text-white"><a href="mailto:info@auricsoft.com" class="text-white">info@auricsoft.com</a> </p>
                                 </div>
                             </div>
                         </div>
