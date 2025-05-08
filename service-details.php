@@ -2,7 +2,8 @@
 <html lang="en">
 
 
-<!-- Mirrored from flywebhtml.websitelayout.net/service-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Sep 2023 14:01:15 GMT -->
+<!-- Mirrored from flywebhtml.websitelayout.net/service-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Sep 2023 14:01:15 GMT -->
+
 <head>
 
     <!-- metas -->
@@ -52,7 +53,8 @@
 
         <!-- PAGE TITLE
         ================================================== -->
-        <section class="page-title-section top-position1 bg-img cover-background left-overlay-secondary" data-overlay-dark="7" data-background="img/banner/ser.jpg">
+        <section class="page-title-section top-position1 bg-img cover-background left-overlay-secondary"
+            data-overlay-dark="7" data-background="img/banner/ser.jpg">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -82,38 +84,38 @@
                                     <span class="display-26 display-xl-24 font-weight-800">Our Services</span>
                                 </div>
                                 <ul class="cetegory p-0 list-unstyled mb-0">
-                                    <li class="active mb-2"><a href="#!">Web Application Development <i class="ti-angle-right"></i></a></li>
-                                    <li class="mb-2"><a href="#!">Mobile Apps Development <i class="ti-angle-right"></i></a></li>
-                                    <li class="mb-2"><a href="#!">SaaS Product Development <i class="ti-angle-right"></i></a></li>
-                                    <li class="mb-2"><a href="#!">Blockchain Development<i class="ti-angle-right"></i></a></li>
-                                    <li class="mb-2"><a href="#!">AI Software Development <i class="ti-angle-right"></i></a></li>
-                                    <li class="mb-2"><a href="#!" class="mb-0">Api Development<i class="ti-angle-right"></i></a></li>
+                                    <li class="active mb-2"><a href="web-development-services.php">Web Application
+                                            Development <i class="ti-angle-right"></i></a></li>
+                                    <li class="mb-2"><a href="mobile-app-development.php">Mobile Apps Development <i
+                                                class="ti-angle-right"></i></a></li>
+                                    <li class="mb-2"><a href="saas-product-development.php">SaaS Product Development <i
+                                                class="ti-angle-right"></i></a></li>
+                                    <li class="mb-2"><a href="blockchain-development.php">Blockchain Development<i
+                                                class="ti-angle-right"></i></a></li>
+                                    <li class="mb-2"><a href="ai-software-development.php">AI Software Development <i
+                                                class="ti-angle-right"></i></a></li>
+                                    <li class="mb-2"><a href="api-development.php" class="mb-0">Api Development<i
+                                                class="ti-angle-right"></i></a></li>
                                 </ul>
                             </div>
-                            <div class="widget bg-light">
-                                <h4 class="widget-title title-font mb-1-9 text-secondary">Brochures</h4>
-                                <div class="widget-body">
-                                    <ul class="widget-brochure">
-                                        <li>
-                                            <a href="#!" class="letter-spacing-1"><i class="far fa-file-pdf"></i>Download.pdf</a>
-                                        </li>
-                                        <li>
-                                            <a href="#!" class="letter-spacing-1"><i class="far fa-file-alt"></i>Download.txt</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
+
                             <div class="bg-light">
                                 <div class="banner-wrapper">
-                                    <img src="img/content/help.jpg" class="border-top-radius-10" alt="...">
-                                    <div class="p-2-2 pt-6 position-relative border-bottom-radius-10 bg-secondary text-center">
+                                    <img src="img/content/help2.jpg" class="border-top-radius-10" alt="...">
+                                    <div
+                                        class="p-2-2 pt-6 position-relative border-bottom-radius-10 bg-secondary text-center">
                                         <div class="icon-boxs bg-primary">
                                             <i class="ti-headphone-alt fs-1 text-white"></i>
                                         </div>
                                         <h4 class="mb-3 text-white">How Can We Help?</h4>
                                         <ul class="text-center list-unstyled mb-0">
-                                            <li class="text-white mb-2"><i class="fa fa-phone small text-white me-2"></i><a href="#!" class="text-white">(+44)123 456 789</a></li>
-                                            <li class="text-white"><i class="fa fa-envelope-open small text-white me-2"></i><a href="#!" class="text-white">addyour@emailhere</a></li>
+                                            <li class="text-white mb-2"><i
+                                                    class="fa fa-phone small text-white me-2"></i><a href="#!"
+                                                    class="text-white">+91 8650155151</a></li>
+                                            <li class="text-white"><i
+                                                    class="fa fa-envelope-open small text-white me-2"></i><a
+                                                    href="https://www.auricsoft.com/"
+                                                    class="text-white">info@auricsoft.com</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -127,7 +129,11 @@
                             </div>
                             <div class="wow fadeIn" data-wow-delay="20ms">
                                 <h2 class="mb-3">Web Designing</h2>
-                                <p class="mb-5">At Auricsoft, we design custom websites that merge stunning visuals with superior functionality. Our expert team is dedicated to creating responsive, user-friendly sites that elevate your brand and drive engagement. We focus on delivering a seamless digital experience that ensures your business stands out online.</p>
+                                <p class="mb-5">At Auricsoft, we design custom websites that merge stunning visuals with
+                                    superior functionality. Our expert team is dedicated to creating responsive,
+                                    user-friendly sites that elevate your brand and drive engagement. We focus on
+                                    delivering a seamless digital experience that ensures your business stands out
+                                    online.</p>
                             </div>
                             <div class="row mb-1-9">
                                 <div class="col-lg-6 mb-4 mb-lg-0 wow fadeIn" data-wow-delay="200ms">
@@ -137,7 +143,8 @@
                                         </div>
                                         <div class="flex-grow-1 ps-4 p-2">
                                             <h4 class="h5">Best Solutions</h4>
-                                            <p class="mb-0">We focus on the best practices for it solutions and services.</p>
+                                            <p class="mb-0">We focus on the best practices for it solutions and
+                                                services.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -148,50 +155,75 @@
                                         </div>
                                         <div class="flex-grow-1 ps-4 p-2">
                                             <h4 class="h5">Data Analysys</h4>
-                                            <p class="mb-0">We focus on the best practices for it solutions and services.</p>
+                                            <p class="mb-0">We focus on the best practices for it solutions and
+                                                services.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <p class="mb-2-3 wow fadeInUp" data-wow-delay="200ms">We offer comprehensive web solutions, including custom website design, development, SEO optimization, and digital marketing. Our services are tailored to enhance your online presence, improve user experience, and drive growth, ensuring your business excels in the digital landscape.</p>
-                            <div class="wow fadeInUp" data-wow-delay="200ms">
-                                <h2 class="h3 mb-4">Our work benefits</h2>
-                                <p class="mb-1-9">Joining our company means enjoying a dynamic work environment, opportunities for professional growth, and competitive benefits. We offer flexible work arrangements, continuous learning programs, and a supportive team culture, all designed to help you thrive and achieve your career goals.</p>
-                            </div>
-                            <div class="row mb-1-9">
-                                <div class="col-md-6 wow fadeInUp" data-wow-delay="200ms">
-                                    <div class="d-flex align-items-center">
-                                        <i class="ti-check display-26 text-primary"></i>
-                                        <span class="ms-3 text-secondary fw-bold">Marketing options and rates</span>
-                                    </div>
-                                    <div class="d-flex align-items-center mt-4">
-                                        <i class="ti-check display-26 text-primary"></i>
-                                        <span class="ms-3 text-secondary fw-bold">The ability to turnaround consulting</span>
-                                    </div>
-                                </div>
-                                <div class="col-md-6 wow fadeInUp" data-wow-delay="400ms">
-                                    <div class="d-flex align-items-center mt-4 mt-md-0">
-                                        <i class="ti-check display-26 text-primary"></i>
-                                        <span class="ms-3 text-secondary fw-bold">Research beyond the business plan</span>
-                                    </div>
-                                    <div class="d-flex align-items-center mt-4">
-                                        <i class="ti-check display-26 text-primary"></i>
-                                        <span class="ms-3 text-secondary fw-bold">Customer engagement matters</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <p class="wow fadeInUp" data-wow-delay="200ms">In our company, employees benefit from a creative and collaborative work environment, professional development opportunities, and competitive compensation. Enjoy flexible schedules, remote work options, and a strong focus on work-life balance, all while contributing to innovative digital solutions.</p>
+                            <p class="mb-2-3 wow fadeInUp" data-wow-delay="200ms">We offer comprehensive web solutions,
+                                including custom website design, development, SEO optimization, and digital marketing.
+                                Our services are tailored to enhance your online presence, improve user experience, and
+                                drive growth, ensuring your business excels in the digital landscape.</p>
                         </div>
                     </div>
                 </div>
             </div>
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="wow fadeInUp" data-wow-delay="200ms">
+                            <h2 class="h3 mb-4">Our Work Benefits</h2>
+                            <p class="mb-4">
+                                Joining our company means enjoying a dynamic work environment, opportunities for
+                                professional growth, and competitive benefits. We offer flexible work arrangements,
+                                continuous learning programs, and a supportive team culture, all designed to help you
+                                thrive and achieve your career goals.
+                            </p>
+                        </div>
+
+                        <div class="row mb-4">
+                            <div class="col-sm-6 mb-3 wow fadeInUp" data-wow-delay="200ms">
+                                <div class="d-flex align-items-start">
+                                    <i class="ti-check display-26 text-primary mt-1"></i>
+                                    <span class="ms-3 fw-bold">Marketing options and rates</span>
+                                </div>
+                                <div class="d-flex align-items-start mt-3">
+                                    <i class="ti-check display-26 text-primary mt-1"></i>
+                                    <span class="ms-3 fw-bold">The ability to turnaround consulting</span>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-6 mb-3 wow fadeInUp" data-wow-delay="400ms">
+                                <div class="d-flex align-items-start">
+                                    <i class="ti-check display-26 text-primary mt-1"></i>
+                                    <span class="ms-3 fw-bold">Research beyond the business plan</span>
+                                </div>
+                                <div class="d-flex align-items-start mt-3">
+                                    <i class="ti-check display-26 text-primary mt-1"></i>
+                                    <span class="ms-3 fw-bold">Customer engagement matters</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <p class="wow fadeInUp" data-wow-delay="200ms">
+                            In our company, employees benefit from a creative and collaborative work environment,
+                            professional development opportunities, and competitive compensation. Enjoy flexible
+                            schedules, remote work options, and a strong focus on work-life balance, all while
+                            contributing to innovative digital solutions.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
         </section>
-        </div>
 
         <!-- FOOTER
         ================================================== -->
         <?php include 'footer.php';?>
 
+    </div>
 
     <!-- BUY TEMPLATE
     ================================================== -->
@@ -234,5 +266,6 @@
 </body>
 
 
-<!-- Mirrored from flywebhtml.websitelayout.net/service-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Sep 2023 14:01:15 GMT -->
+<!-- Mirrored from flywebhtml.websitelayout.net/service-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Sep 2023 14:01:15 GMT -->
+
 </html>
