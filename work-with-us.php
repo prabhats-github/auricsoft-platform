@@ -64,11 +64,11 @@
                     <div class="col-md-12">
                         <div class="text-start">
                             <div class="position-relative">
-                                <h1>How We Work</h1>
+                                <h1>Work with us</h1>
                             </div>
                             <ul>
                                 <li><a href="index.html">Home</a></li>
-                                <li><a href="#!">How We Work</a></li>
+                                <li><a href="#!">Work with us</a></li>
                             </ul>
                         </div>
                     </div>
@@ -225,13 +225,8 @@
                 <li class="mb-2"><i class="fas fa-handshake text-info me-2"></i>Collaborative Team Environment</li>
             </ul>
 
-            <hr class="my-5" />
 
-            <div class="text-center">
-                <h2 class="mb-3">🌍 Ready to Join Us?</h2>
-                <p>Your career deserves more than just a job. <strong>Be challenged. Be inspired.</strong></p>
-                <a href="mailto:careers@auricsoft.com" class="btn btn-primary px-4 py-2 mt-2">Apply Now</a>
-            </div>
+           
         </div>
 
 
