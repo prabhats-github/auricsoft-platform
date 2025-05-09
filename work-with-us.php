@@ -124,7 +124,7 @@
 
                 <!-- Image Section -->
                 <div class="col-md-6 text-center">
-                    <img src="img/work-with-us/1.png" alt="Why Work With Us" class="img-fluid rounded ">
+                    <img src="img/work-with-us/life-at.jpg" alt="Why Work With Us" class="img-fluid rounded ">
                 </div>
             </div>
 
