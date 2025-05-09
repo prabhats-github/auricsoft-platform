@@ -3,6 +3,7 @@
 
 
 <!-- Mirrored from flywebhtml.websitelayout.net/how-we-work.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Sep 2023 14:01:10 GMT -->
+
 <head>
 
     <!-- metas -->
@@ -48,15 +49,16 @@
 
         <!-- HEADER
         ================================================== -->
-        
+
 
         <?php include 'header.php';?>
 
-          
+
 
         <!-- PAGE TITLE
         ================================================== -->
-        <section class="page-title-section top-position1 bg-img cover-background left-overlay-secondary" data-overlay-dark="6" data-background="img/banner/work2.jpg">
+        <section class="page-title-section top-position1 bg-img cover-background left-overlay-secondary"
+            data-overlay-dark="6" data-background="img/banner/work2.jpg">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -76,110 +78,113 @@
 
         <!-- HISTORY
         ================================================== -->
-        
+
         <div class="container py-5">
-    <h1 class="mb-4 text-center fw-bold">🌟 Careers at Auricsoft Platform</h1>
-    <p class="lead text-center">Build the Future With Us</p>
-    <p class="text-center">At <strong>Auricsoft Platform</strong>, we don’t just build websites—we build digital experiences that transform businesses. Join us and work on exciting projects that make a global impact.</p>
+            <h1 class="mb-4 text-center fw-bold">🌟 Careers at Auricsoft Platform</h1>
+            <p class="lead text-center">Build the Future With Us</p>
+            <p class="text-center">At <strong>Auricsoft Platform</strong>, we don’t just build websites—we build digital
+                experiences that transform businesses. Join us and work on exciting projects that make a global impact.
+            </p>
 
-    <hr class="my-5" />
+            <hr class="my-5" />
 
-    <div class="row align-items-center">
-    <!-- Text Section -->
-    <div class="col-md-6">
-      <h2 class="mb-4">🚀 Why Work With Us?</h2>
-      <ul class="list-unstyled">
-        <li class="mb-3">
-          <i class="fas fa-bolt text-primary me-2"></i>
-          <strong>Impact-Driven Work:</strong> Contribute to projects that solve real-world problems.
-        </li>
-        <li class="mb-3">
-          <i class="fas fa-graduation-cap text-success me-2"></i>
-          <strong>Learn & Grow:</strong> Continuous learning and skill development.
-        </li>
-        <li class="mb-3">
-          <i class="fas fa-clock text-warning me-2"></i>
-          <strong>Flexible Culture:</strong> Remote work options and work-life balance.
-        </li>
-        <li class="mb-3">
-          <i class="fas fa-lightbulb text-info me-2"></i>
-          <strong>Innovation at the Core:</strong> We embrace creativity and experimentation.
-        </li>
-      </ul>
-    </div>
+            <div class="row align-items-center">
+                <!-- Text Section -->
+                <div class="col-md-6">
+                    <h2 class="mb-4">🚀 Why Work With Us?</h2>
+                    <ul class="list-unstyled">
+                        <li class="mb-3">
+                            <i class="fas fa-bolt text-primary me-2"></i>
+                            <strong>Impact-Driven Work:</strong> Contribute to projects that solve real-world problems.
+                        </li>
+                        <li class="mb-3">
+                            <i class="fas fa-graduation-cap text-success me-2"></i>
+                            <strong>Learn & Grow:</strong> Continuous learning and skill development.
+                        </li>
+                        <li class="mb-3">
+                            <i class="fas fa-clock text-warning me-2"></i>
+                            <strong>Flexible Culture:</strong> Remote work options and work-life balance.
+                        </li>
+                        <li class="mb-3">
+                            <i class="fas fa-lightbulb text-info me-2"></i>
+                            <strong>Innovation at the Core:</strong> We embrace creativity and experimentation.
+                        </li>
+                    </ul>
+                </div>
 
-    <!-- Image Section -->
-    <div class="col-md-6 text-center">
-      <img src="img/work-with-us/2.png" alt="Why Work With Us" class="img-fluid rounded shadow">
-    </div>
-  </div>
+                <!-- Image Section -->
+                <div class="col-md-6 text-center">
+                    <img src="img/work-with-us/1.png" alt="Why Work With Us" class="img-fluid rounded shadow">
+                </div>
+            </div>
 
-    <hr class="my-5" />
+            <hr class="my-5" />
 
-    <h2 class="mb-4">💼 Current Openings</h2>
-    <div class="row">
-      <div class="col-md-6">
-        <ul>
-          <li>Front-End Developer (React, Vue, Angular)</li>
-          <li>Back-End Developer (Node.js, Laravel, Django)</li>
-          <li>Full Stack Developer</li>
-          <li>Mobile App Developer (Flutter, Kotlin, Swift)</li>
-          <li>UI/UX Designer</li>
-        </ul>
-      </div>
-      <div class="col-md-6">
-        <ul>
-          <li>Digital Marketing Specialist</li>
-          <li>Content Writer</li>
-          <li>Project Manager</li>
-          <li>QA Engineer</li>
-          <li>DevOps Engineer</li>
-        </ul>
-      </div>
-    </div>
-    <p class="mt-3"><em>Don’t see your role listed? We’d still love to hear from you! Email us at <a href="mailto:careers@auricsoft.com">careers@auricsoft.com</a></em></p>
+            <h2 class="mb-4">💼 Current Openings</h2>
+            <div class="row">
+                <div class="col-md-6">
+                    <ul>
+                        <li>Front-End Developer (React, Vue, Angular)</li>
+                        <li>Back-End Developer (Node.js, Laravel, Django)</li>
+                        <li>Full Stack Developer</li>
+                        <li>Mobile App Developer (Flutter, Kotlin, Swift)</li>
+                        <li>UI/UX Designer</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <ul>
+                        <li>Digital Marketing Specialist</li>
+                        <li>Content Writer</li>
+                        <li>Project Manager</li>
+                        <li>QA Engineer</li>
+                        <li>DevOps Engineer</li>
+                    </ul>
+                </div>
+            </div>
+            <p class="mt-3"><em>Don’t see your role listed? We’d still love to hear from you! Email us at <a
+                        href="mailto:careers@auricsoft.com">careers@auricsoft.com</a></em></p>
 
-    <hr class="my-5" />
+            <hr class="my-5" />
 
-    <h2 class="mb-4">🔧 Technologies We Love</h2>
-    <p>We work with cutting-edge tools and platforms:</p>
-    <ul class="row list-unstyled">
-      <li class="col-md-4">Languages: JavaScript, PHP, Python, Java</li>
-      <li class="col-md-4">Frameworks: React, Angular, Vue.js, Laravel</li>
-      <li class="col-md-4">Mobile: Flutter, React Native, Swift</li>
-      <li class="col-md-4">CMS: WordPress, Shopify, Magento</li>
-      <li class="col-md-4">DevOps: AWS, Azure, Docker, Git</li>
-      <li class="col-md-4">Design: Figma, Adobe XD</li>
-    </ul>
+            <h2 class="mb-4">🔧 Technologies We Love</h2>
+            <p>We work with cutting-edge tools and platforms:</p>
+            <ul class="row list-unstyled">
+                <li class="col-md-4">Languages: JavaScript, PHP, Python, Java</li>
+                <li class="col-md-4">Frameworks: React, Angular, Vue.js, Laravel</li>
+                <li class="col-md-4">Mobile: Flutter, React Native, Swift</li>
+                <li class="col-md-4">CMS: WordPress, Shopify, Magento</li>
+                <li class="col-md-4">DevOps: AWS, Azure, Docker, Git</li>
+                <li class="col-md-4">Design: Figma, Adobe XD</li>
+            </ul>
 
-    <hr class="my-5" />
+            <hr class="my-5" />
 
-    <h2 class="mb-4">🌈 Life at Auricsoft</h2>
-    <ul class="list-unstyled">
-      <li class="mb-2"><i class="fas fa-users text-success me-2"></i>Transparent & Inclusive Culture</li>
-      <li class="mb-2"><i class="fas fa-trophy text-warning me-2"></i>Performance Bonuses</li>
-      <li class="mb-2"><i class="fas fa-laptop-house text-primary me-2"></i>Remote Work Options</li>
-      <li class="mb-2"><i class="fas fa-handshake text-info me-2"></i>Collaborative Team Environment</li>
-    </ul>
+            <h2 class="mb-4">🌈 Life at Auricsoft</h2>
+            <ul class="list-unstyled">
+                <li class="mb-2"><i class="fas fa-users text-success me-2"></i>Transparent & Inclusive Culture</li>
+                <li class="mb-2"><i class="fas fa-trophy text-warning me-2"></i>Performance Bonuses</li>
+                <li class="mb-2"><i class="fas fa-laptop-house text-primary me-2"></i>Remote Work Options</li>
+                <li class="mb-2"><i class="fas fa-handshake text-info me-2"></i>Collaborative Team Environment</li>
+            </ul>
 
-    <hr class="my-5" />
+            <hr class="my-5" />
 
-    <div class="text-center">
-      <h2 class="mb-3">🌍 Ready to Join Us?</h2>
-      <p>Your career deserves more than just a job. <strong>Be challenged. Be inspired.</strong></p>
-      <a href="mailto:careers@auricsoft.com" class="btn btn-primary px-4 py-2 mt-2">Apply Now</a>
-    </div>
-  </div>
-       
+            <div class="text-center">
+                <h2 class="mb-3">🌍 Ready to Join Us?</h2>
+                <p>Your career deserves more than just a job. <strong>Be challenged. Be inspired.</strong></p>
+                <a href="mailto:careers@auricsoft.com" class="btn btn-primary px-4 py-2 mt-2">Apply Now</a>
+            </div>
+        </div>
+
 
         <!-- PRICING
         ================================================== -->
-        
-        </div>
 
-        <!-- FOOTER
+    </div>
+
+    <!-- FOOTER
         ================================================== -->
-        <?php include 'footer.php';?>
+    <?php include 'footer.php';?>
 
 
     <!-- BUY TEMPLATE
@@ -224,4 +229,5 @@
 
 
 <!-- Mirrored from flywebhtml.websitelayout.net/how-we-work.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Sep 2023 14:01:11 GMT -->
+
 </html>
