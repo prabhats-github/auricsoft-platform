@@ -156,16 +156,64 @@
 
             <hr class="my-5" />
 
-            <h2 class="mb-4">Technologies We Love</h2>
-            <p>We work with cutting-edge tools and platforms:</p>
-            <ul class="row list-unstyled">
-                <li class="col-md-4">Languages: JavaScript, PHP, Python, Java</li>
-                <li class="col-md-4">Frameworks: React, Angular, Vue.js, Laravel</li>
-                <li class="col-md-4">Mobile: Flutter, React Native, Swift</li>
-                <li class="col-md-4">CMS: WordPress, Shopify, Magento</li>
-                <li class="col-md-4">DevOps: AWS, Azure, Docker, Git</li>
-                <li class="col-md-4">Design: Figma, Adobe XD</li>
-            </ul>
+            <h2 class="mb-4 text-center">Technologies We Love</h2>
+            <p class="text-center mb-5">We thrive on innovation and build with the latest technologies:</p>
+
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm border-0">
+                        <div class="card-body">
+                            <h5 class="card-title"><i class="fas fa-code me-2 text-primary"></i>Languages</h5>
+                            <p class="card-text">JavaScript, PHP, Python, Java</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm border-0">
+                        <div class="card-body">
+                            <h5 class="card-title"><i class="fas fa-layer-group me-2 text-success"></i>Frameworks</h5>
+                            <p class="card-text">React, Angular, Vue.js, Laravel</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm border-0">
+                        <div class="card-body">
+                            <h5 class="card-title"><i class="fas fa-mobile-alt me-2 text-info"></i>Mobile</h5>
+                            <p class="card-text">Flutter, React Native, Swift</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm border-0">
+                        <div class="card-body">
+                            <h5 class="card-title"><i class="fas fa-globe me-2 text-warning"></i>CMS</h5>
+                            <p class="card-text">WordPress, Shopify, Magento</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm border-0">
+                        <div class="card-body">
+                            <h5 class="card-title"><i class="fas fa-server me-2 text-danger"></i>DevOps</h5>
+                            <p class="card-text">AWS, Azure, Docker, Git</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm border-0">
+                        <div class="card-body">
+                            <h5 class="card-title"><i class="fas fa-pencil-ruler me-2 text-secondary"></i>Design</h5>
+                            <p class="card-text">Figma, Adobe XD</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
             <hr class="my-5" />
 
