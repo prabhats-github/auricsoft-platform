@@ -233,7 +233,7 @@
         <p>At Auricsoft, you're not just writing code—you’re creating experiences. We encourage bold ideas and back them with the freedom and support to bring them to life.</p>
       </div>
       <div class="col-md-6">
-        <img src="your-image.jpg" alt="Life at Auricsoft" class="img-fluid rounded shadow">
+        <img src="img/work-with-us/girl.jpg" alt="Life at Auricsoft" class="img-fluid rounded shadow">
       </div>
     </div>
 
