@@ -80,7 +80,7 @@
         ================================================== -->
 
         <div class="container py-5">
-            <h1 class="mb-4 text-center fw-bold">🌟 Careers at Auricsoft Platform</h1>
+            <h1 class="mb-4 text-center fw-bold"> Careers at Auricsoft Platform</h1>
             <p class="lead text-center">Build the Future With Us</p>
 
             <p>At <strong> Auricsoft Platform, </strong> we don’t just offer jobs — we offer careers that empower
@@ -101,7 +101,7 @@
             <div class="row align-items-center">
                 <!-- Text Section -->
                 <div class="col-md-6">
-                    <h2 class="mb-4">🚀 Why Work With Us?</h2>
+                    <h2 class="mb-4"> Why Work With Us?</h2>
                     <ul class="list-unstyled">
                         <li class="mb-3">
                             <i class="fas fa-bolt text-primary me-2"></i>
@@ -130,7 +130,7 @@
 
             <hr class="my-5" />
 
-            <h2 class="mb-4">💼 Current Openings</h2>
+            <h2 class="mb-4"> Current Openings</h2>
             <div class="row">
                 <div class="col-md-6">
                     <ul>
