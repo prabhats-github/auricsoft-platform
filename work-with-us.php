@@ -131,32 +131,37 @@
             <hr class="my-5" />
 
             <section class="py-5 bg-light">
-  <div class="container">
-    <h2 class="mb-4 text-center fw-bold">Current Openings</h2>
-    <div class="row">
-      <div class="col-md-6">
-        <ul class="list-unstyled">
-          <li class="mb-3"><i class="fas fa-code text-primary me-2"></i>Front-End Developer (React, Vue, Angular)</li>
-          <li class="mb-3"><i class="fas fa-server text-success me-2"></i>Back-End Developer (Node.js, Laravel, Django)</li>
-          <li class="mb-3"><i class="fas fa-laptop-code text-warning me-2"></i>Full Stack Developer</li>
-          <li class="mb-3"><i class="fas fa-mobile-alt text-info me-2"></i>Mobile App Developer (Flutter, Kotlin, Swift)</li>
-          <li class="mb-3"><i class="fas fa-pencil-ruler text-danger me-2"></i>UI/UX Designer</li>
-        </ul>
-      </div>
-      <div class="col-md-6">
-        <ul class="list-unstyled">
-          <li class="mb-3"><i class="fas fa-bullhorn text-primary me-2"></i>Digital Marketing Specialist</li>
-          <li class="mb-3"><i class="fas fa-pen-nib text-success me-2"></i>Content Writer</li>
-          <li class="mb-3"><i class="fas fa-tasks text-warning me-2"></i>Project Manager</li>
-          <li class="mb-3"><i class="fas fa-vial text-info me-2"></i>QA Engineer</li>
-          <li class="mb-3"><i class="fas fa-cogs text-danger me-2"></i>DevOps Engineer</li>
-        </ul>
-      </div>
-    </div>
-    <p class="mt-4 text-center"><em>Don’t see your role listed? We’d still love to hear from you!<br>
-      Email us at <a href="mailto:careers@auricsoft.com">careers@auricsoft.com</a></em></p>
-  </div>
-</section>
+                <div class="container">
+                    <h2 class="mb-4 text-center fw-bold">Current Openings</h2>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <ul class="list-unstyled">
+                                <li class="mb-3"><i class="fas fa-code text-primary me-2"></i>Front-End Developer
+                                    (React, Vue, Angular)</li>
+                                <li class="mb-3"><i class="fas fa-server text-success me-2"></i>Back-End Developer
+                                    (Node.js, Laravel, Django)</li>
+                                <li class="mb-3"><i class="fas fa-laptop-code text-warning me-2"></i>Full Stack
+                                    Developer</li>
+                                <li class="mb-3"><i class="fas fa-mobile-alt text-info me-2"></i>Mobile App Developer
+                                    (Flutter, Kotlin, Swift)</li>
+                                <li class="mb-3"><i class="fas fa-pencil-ruler text-danger me-2"></i>UI/UX Designer</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6">
+                            <ul class="list-unstyled">
+                                <li class="mb-3"><i class="fas fa-bullhorn text-primary me-2"></i>Digital Marketing
+                                    Specialist</li>
+                                <li class="mb-3"><i class="fas fa-pen-nib text-success me-2"></i>Content Writer</li>
+                                <li class="mb-3"><i class="fas fa-tasks text-warning me-2"></i>Project Manager</li>
+                                <li class="mb-3"><i class="fas fa-vial text-info me-2"></i>QA Engineer</li>
+                                <li class="mb-3"><i class="fas fa-cogs text-danger me-2"></i>DevOps Engineer</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <p class="mt-4 text-center"><em>Don’t see your role listed? We’d still love to hear from you!<br>
+                            Email us at <a href="mailto:careers@auricsoft.com">careers@auricsoft.com</a></em></p>
+                </div>
+            </section>
             <hr class="my-5" />
 
             <h2 class="mb-4 text-center">Technologies We Love</h2>
@@ -221,52 +226,59 @@
             <hr class="my-5" />
 
             <section class="py-5 bg-light">
-  <div class="container">
-    <div class="text-center mb-5">
-      <h2 class="fw-bold">Life at Auricsoft</h2>
-      <p class="lead text-muted">Where passion meets purpose, and every day feels like a step toward something extraordinary.</p>
-    </div>
+                <div class="container">
+                    <div class="text-center mb-5">
+                        <h2 class="fw-bold">Life at Auricsoft</h2>
+                        <p class="lead text-muted">Where passion meets purpose, and every day feels like a step toward
+                            something extraordinary.</p>
+                    </div>
 
-    <div class="row align-items-center mb-5">
-      <div class="col-md-6">
-        <h4 class="fw-semibold mb-3"><i class="fas fa-handshake text-primary me-2"></i>Culture of Collaboration</h4>
-        <p>From daily standups to spontaneous brainstorming over coffee, we thrive on teamwork. Our culture empowers every voice—whether you’re a new intern or a senior architect.</p>
+                    <div class="row align-items-center mb-5">
+                        <div class="col-md-6">
+                            <h4 class="fw-semibold mb-3"><i class="fas fa-handshake text-primary me-2"></i>Culture of
+                                Collaboration</h4>
+                            <p>From daily standups to spontaneous brainstorming over coffee, we thrive on teamwork. Our
+                                culture empowers every voice—whether you’re a new intern or a senior architect.</p>
 
-        <h4 class="fw-semibold mt-4 mb-3"><i class="fas fa-rocket text-success me-2"></i>Innovation in Every Line of Code</h4>
-        <p>At Auricsoft, you're not just writing code—you’re creating experiences. We encourage bold ideas and back them with the freedom and support to bring them to life.</p>
-      </div>
-      <div class="col-md-6">
-        <img src="img/work-with-us/girl3.jpg" alt="Life at Auricsoft" class="img-fluid rounded shadow">
-      </div>
-    </div>
+                            <h4 class="fw-semibold mt-4 mb-3"><i class="fas fa-rocket text-success me-2"></i>Innovation
+                                in Every Line of Code</h4>
+                            <p>At Auricsoft, you're not just writing code—you’re creating experiences. We encourage bold
+                                ideas and back them with the freedom and support to bring them to life.</p>
+                        </div>
+                        <div class="col-md-6">
+                            <img src="img/work-with-us/girl3.jpg" alt="Life at Auricsoft"
+                                class="img-fluid rounded shadow">
+                        </div>
+                    </div>
 
-    <div class="row text-center">
-      <div class="col-md-3 mb-4">
-        <i class="fas fa-glass-cheers fa-2x text-warning mb-2"></i>
-        <h6 class="fw-bold">Team Celebrations</h6>
-        <p class="text-muted small">We celebrate wins—big and small—together.</p>
-      </div>
-      <div class="col-md-3 mb-4">
-        <i class="fas fa-heart fa-2x text-danger mb-2"></i>
-        <h6 class="fw-bold">People First</h6>
-        <p class="text-muted small">Flexible hours, wellness support & empathy-driven leadership.</p>
-      </div>
-      <div class="col-md-3 mb-4">
-        <i class="fas fa-laptop-code fa-2x text-info mb-2"></i>
-        <h6 class="fw-bold">Tech Playground</h6>
-        <p class="text-muted small">Experiment with tools, languages, and ideas freely.</p>
-      </div>
-      <div class="col-md-3 mb-4">
-        <i class="fas fa-lightbulb fa-2x text-primary mb-2"></i>
-        <h6 class="fw-bold">Creative Energy</h6>
-        <p class="text-muted small">Weekly hackathons, idea fests & design jams.</p>
-      </div>
-    </div>
-  </div>
-</section>
+                    <div class="row text-center">
+                        <div class="col-md-3 mb-4">
+                            <i class="fas fa-glass-cheers fa-2x text-warning mb-2"></i>
+                            <h6 class="fw-bold">Team Celebrations</h6>
+                            <p class="text-muted small">We celebrate wins—big and small—together.</p>
+                        </div>
+                        <div class="col-md-3 mb-4">
+                            <i class="fas fa-heart fa-2x text-danger mb-2"></i>
+                            <h6 class="fw-bold">People First</h6>
+                            <p class="text-muted small">Flexible hours, wellness support & empathy-driven leadership.
+                            </p>
+                        </div>
+                        <div class="col-md-3 mb-4">
+                            <i class="fas fa-laptop-code fa-2x text-info mb-2"></i>
+                            <h6 class="fw-bold">Tech Playground</h6>
+                            <p class="text-muted small">Experiment with tools, languages, and ideas freely.</p>
+                        </div>
+                        <div class="col-md-3 mb-4">
+                            <i class="fas fa-lightbulb fa-2x text-primary mb-2"></i>
+                            <h6 class="fw-bold">Creative Energy</h6>
+                            <p class="text-muted small">Weekly hackathons, idea fests & design jams.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
 
-           
+
         </div>
 
 
