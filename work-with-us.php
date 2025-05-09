@@ -156,7 +156,7 @@
 
             <hr class="my-5" />
 
-            <h2 class="mb-4">🔧 Technologies We Love</h2>
+            <h2 class="mb-4">Technologies We Love</h2>
             <p>We work with cutting-edge tools and platforms:</p>
             <ul class="row list-unstyled">
                 <li class="col-md-4">Languages: JavaScript, PHP, Python, Java</li>
@@ -169,7 +169,7 @@
 
             <hr class="my-5" />
 
-            <h2 class="mb-4">🌈 Life at Auricsoft</h2>
+            <h2 class="mb-4">Life at Auricsoft</h2>
             <ul class="list-unstyled">
                 <li class="mb-2"><i class="fas fa-users text-success me-2"></i>Transparent & Inclusive Culture</li>
                 <li class="mb-2"><i class="fas fa-trophy text-warning me-2"></i>Performance Bonuses</li>
