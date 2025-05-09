@@ -82,8 +82,12 @@
         <div class="container py-5">
             <h1 class="mb-4 text-center fw-bold">🌟 Careers at Auricsoft Platform</h1>
             <p class="lead text-center">Build the Future With Us</p>
-            <p class="text-center">At <strong>Auricsoft Platform</strong>, we don’t just build websites—we build digital
-                experiences that transform businesses. Join us and work on exciting projects that make a global impact.
+
+            <p>At <strong> Auricsoft Platform, </strong> we don’t just offer jobs — we offer careers that empower
+                growth, innovation, and purpose. We're building a workplace where your ideas matter, your skills are
+                sharpened, and your impact is real. Whether you're an experienced professional or a passionate newcomer,
+                we provide a launchpad for your aspirations.
+
             </p>
 
             <hr class="my-5" />
@@ -114,7 +118,7 @@
 
                 <!-- Image Section -->
                 <div class="col-md-6 text-center">
-                    <img src="img/work-with-us/1.png" alt="Why Work With Us" class="img-fluid rounded shadow">
+                    <img src="img/work-with-us/1.png" alt="Why Work With Us" class="img-fluid rounded ">
                 </div>
             </div>
 
