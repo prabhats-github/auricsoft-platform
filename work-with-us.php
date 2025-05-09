@@ -130,30 +130,33 @@
 
             <hr class="my-5" />
 
-            <h2 class="mb-4"> Current Openings</h2>
-            <div class="row">
-                <div class="col-md-6">
-                    <ul>
-                        <li>Front-End Developer (React, Vue, Angular)</li>
-                        <li>Back-End Developer (Node.js, Laravel, Django)</li>
-                        <li>Full Stack Developer</li>
-                        <li>Mobile App Developer (Flutter, Kotlin, Swift)</li>
-                        <li>UI/UX Designer</li>
-                    </ul>
-                </div>
-                <div class="col-md-6">
-                    <ul>
-                        <li>Digital Marketing Specialist</li>
-                        <li>Content Writer</li>
-                        <li>Project Manager</li>
-                        <li>QA Engineer</li>
-                        <li>DevOps Engineer</li>
-                    </ul>
-                </div>
-            </div>
-            <p class="mt-3"><em>Don’t see your role listed? We’d still love to hear from you! Email us at <a
-                        href="mailto:careers@auricsoft.com">careers@auricsoft.com</a></em></p>
-
+            <section class="py-5 bg-light">
+  <div class="container">
+    <h2 class="mb-4 text-center fw-bold">Current Openings</h2>
+    <div class="row">
+      <div class="col-md-6">
+        <ul class="list-unstyled">
+          <li class="mb-3"><i class="fas fa-code text-primary me-2"></i>Front-End Developer (React, Vue, Angular)</li>
+          <li class="mb-3"><i class="fas fa-server text-success me-2"></i>Back-End Developer (Node.js, Laravel, Django)</li>
+          <li class="mb-3"><i class="fas fa-laptop-code text-warning me-2"></i>Full Stack Developer</li>
+          <li class="mb-3"><i class="fas fa-mobile-alt text-info me-2"></i>Mobile App Developer (Flutter, Kotlin, Swift)</li>
+          <li class="mb-3"><i class="fas fa-pencil-ruler text-danger me-2"></i>UI/UX Designer</li>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <ul class="list-unstyled">
+          <li class="mb-3"><i class="fas fa-bullhorn text-primary me-2"></i>Digital Marketing Specialist</li>
+          <li class="mb-3"><i class="fas fa-pen-nib text-success me-2"></i>Content Writer</li>
+          <li class="mb-3"><i class="fas fa-tasks text-warning me-2"></i>Project Manager</li>
+          <li class="mb-3"><i class="fas fa-vial text-info me-2"></i>QA Engineer</li>
+          <li class="mb-3"><i class="fas fa-cogs text-danger me-2"></i>DevOps Engineer</li>
+        </ul>
+      </div>
+    </div>
+    <p class="mt-4 text-center"><em>Don’t see your role listed? We’d still love to hear from you!<br>
+      Email us at <a href="mailto:careers@auricsoft.com">careers@auricsoft.com</a></em></p>
+  </div>
+</section>
             <hr class="my-5" />
 
             <h2 class="mb-4 text-center">Technologies We Love</h2>
