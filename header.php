@@ -40,14 +40,14 @@
                                                 <li><a href="service-details.php">School ERP</a></li>
                                                 <li><a href="service-details.php">Jwellery Store ERP</a></li>
                                                 <li><a href="service-details.php">Ecommerce Software</a></li>
-                                                <li><a href="service-details.php">E-Procurement Software</a></li>
-                                                <li><a href="service-details.php">ERP</a></li>
-                                                <li><a href="service-details.php">CRM</a></li>
+                                               
+                                                <li><a href="service-details.php">CRM & ERP</a></li>
+                                                
                                             </ul>
                                         </li>
                                        
-                                        <li><a href="services.php">Companies</a></li>
-                                        <li><a href="how-we-work.php">Work With Us</a></li>
+                                      
+                                        <li><a href="work-with-us.php">Work With Us</a></li>
                                          
                                         <li>
                                             <a href="#!">Connect To Us</a>
