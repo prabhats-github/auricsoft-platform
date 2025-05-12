@@ -110,7 +110,7 @@
                                 <img src="img/icons/13.png" alt="image not show">
                             </span>                            
                             <div class="overflow-hidden position-relative z-index-9">
-                                <h3 class="h2 mb-3"><a href="service-details.php">Web Application<br>Development</a></h3>
+                                <h3 class="h2 mb-3"><a href="web-development-services.php">Web Application<br>Development</a></h3>
                                 <div class="card-content">
                                     <p>Web application development creates interactive and scalable solutions for diverse user needs.</p>
                                     <a class="text-secondary text-primary-hover text-uppercase small letter-spacing-4 ms-1 font-weight-700" href="service-details.php">Read more</a>
@@ -124,7 +124,7 @@
                                 <img src="img/icons/14.png" alt="...">
                             </span>                            
                             <div class="overflow-hidden position-relative z-index-9">
-                                <h3 class="h2 mb-3"><a href="service-details.php">Mobile Apps<br> Development</a></h3>
+                                <h3 class="h2 mb-3"><a href="mobile-app-development.php">Mobile Apps<br> Development</a></h3>
                                 <div class="card-content">
                                     <p>Mobile application development builds user-centric apps optimized for performance across smartphones and tablets.</p>
                                     <a class="text-secondary text-primary-hover text-uppercase small letter-spacing-4 ms-1 font-weight-700" href="service-details.php">Read more</a>
@@ -138,7 +138,7 @@
                                 <img src="img/icons/15.png" alt="...">
                             </span>                            
                             <div class="overflow-hidden position-relative z-index-9">
-                                <h3 class="h2 mb-3"><a href="service-details.php">SaaS Product<br> Development</a></h3>
+                                <h3 class="h2 mb-3"><a href="saas-product-development.php">SaaS Product<br> Development</a></h3>
                                 <div class="card-content">
                                     <p>SaaS development creates scalable software solutions delivered via the cloud, offering flexible and on-demand access.</p>
                                     <a class="text-secondary text-primary-hover text-uppercase small letter-spacing-4 ms-1 font-weight-700" href="service-details.php">Read more</a>

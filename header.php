@@ -37,11 +37,11 @@
                                         <li>
                                             <a href="#">Products</a>
                                             <ul>
-                                                <li><a href="service-details.php">School ERP</a></li>
-                                                <li><a href="service-details.php">Jwellery Store ERP</a></li>
-                                                <li><a href="service-details.php">Ecommerce Software</a></li>
+                                                <li><a href="#">School ERP</a></li>
+                                                <li><a href="#">Jwellery Store ERP</a></li>
+                                                <li><a href="#">Ecommerce Software</a></li>
                                                
-                                                <li><a href="service-details.php">CRM & ERP</a></li>
+                                                <li><a href="#">CRM & ERP</a></li>
                                                 
                                             </ul>
                                         </li>

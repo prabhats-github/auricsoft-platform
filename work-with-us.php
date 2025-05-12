@@ -130,7 +130,7 @@
 
             <hr class="my-5" />
 
-            <section class="py-5 bg-light">
+            <section class="py-5">
                 <div class="container">
                     <h2 class="mb-4 text-center fw-bold">Current Openings</h2>
                     <div class="row">
@@ -159,9 +159,12 @@
                         </div>
                     </div>
                     <p class="mt-4 text-center"><em>Don’t see your role listed? We’d still love to hear from you!<br>
-                            Email us at <a href="mailto:careers@auricsoft.com">careers@auricsoft.com</a></em></p>
+                            Email us at <a href="mailto:join@auricsoft.com">join@auricsoft.com</a></em></p>
                 </div>
             </section>
+
+
+            
             <hr class="my-5" />
 
             <h2 class="mb-4 text-center">Technologies We Love</h2>
@@ -225,7 +228,7 @@
 
             <hr class="my-5" />
 
-            <section class="py-5 bg-light">
+            <section class="py-5 ">
                 <div class="container">
                     <div class="text-center mb-5">
                         <h2 class="fw-bold">Life at Auricsoft</h2>
