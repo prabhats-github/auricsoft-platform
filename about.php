@@ -2,20 +2,42 @@
 <html lang="en">
 
 
-<!-- Mirrored from flywebhtml.websitelayout.net/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Sep 2023 14:01:06 GMT -->
 
 <head>
 
     <!-- metas -->
-    <meta charset="utf-8">
-    <meta name="author" content="Website Design Templates">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta name="keywords" content="Web Design Agency HTML Template">
-    <meta name="description" content="Flyweb - Web Design Agency HTML Template">
+       <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <!--google og-->
+      <meta name="description" content="Auricsoft Platform offers premium software development, web and mobile app development (Android & iOS), IoT solutions, and SaaS product development for startups and enterprises">
+      <meta name="Keywords" content="web Development, web Application development, mobile app development, custom software solutions, e-commerce solutions, CMS, CRM, iOS app development, Android app development, hybrid app development">
+      <meta name="author" content="Auricsoft Platfrom">
+      <meta property="og:title" content="Auricsoft Platform is a premium software development company specializing in web applications, mobile apps (Android & iOS), IoT solutions, and SaaS product development for businesses of all sizes">
+      <meta property="og:url" content="about.php">
+      <meta name="robots" content="index, follow">
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <meta name="language" content="English">
+      <meta name="revisit-after" content="1 days">
+      <meta property="og:type" content="web Development, web Application development, mobile app development, custom software solutions, e-commerce solutions, CMS, CRM, iOS app development, Android app development, hybrid app development">
+      <!--twitter og-->
+      <meta name="twitter:site" content="@auricsoft06">
+      <meta name="twitter:creator" content="@auricsoft06">
+      <meta name="twitter:card" content="auricsoft06">
+      <meta name="twitter:title" content="Auricsoft Platform - Premium Software & App Development Company">
+      <meta name="twitter:description" content="">
+      <meta name="twitter:image" content="#">
+      <!--facebook og-->
+      <meta property="og:url" content="#">
+      <meta name="twitter:title" content="">
+      <meta property="og:description" content="">
+      <meta property="og:image" content="#">
+      <meta property="og:image:secure_url" content="#">
+      <meta property="og:image:type" content="image/png">
+      <meta property="og:image:width" content="1200">
+      <meta property="og:image:height" content="600">
 
     <!-- title  -->
-    <title>Flyweb - Web Design Agency HTML Template</title>
+    <title>Auricsoft Platform - About Us</title>
 
     <!-- favicon -->
     <link rel="shortcut icon" href="img/logos/favicon.png">

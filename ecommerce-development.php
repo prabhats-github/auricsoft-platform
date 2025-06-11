@@ -7,37 +7,41 @@
 
     <!-- metas -->
     <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <!--google og-->
-      <meta name="description" content="Auricsoft Platform offers premium software development, web and mobile app development (Android & iOS), IoT solutions, and SaaS product development for startups and enterprises">
-      <meta name="Keywords" content="web Development, web Application development, mobile app development, custom software solutions, e-commerce solutions, CMS, CRM, iOS app development, Android app development, hybrid app development">
-      <meta name="author" content="Auricsoft Platfrom">
-      <meta property="og:title" content="Auricsoft Platform is a premium software development company specializing in web applications, mobile apps (Android & iOS), IoT solutions, and SaaS product development for businesses of all sizes">
-      <meta property="og:url" content="api-development.php">
-      <meta name="robots" content="index, follow">
-      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-      <meta name="language" content="English">
-      <meta name="revisit-after" content="1 days">
-      <meta property="og:type" content="web Development, web Application development, mobile app development, custom software solutions, e-commerce solutions, CMS, CRM, iOS app development, Android app development, hybrid app development">
-      <!--twitter og-->
-      <meta name="twitter:site" content="@auricsoft06">
-      <meta name="twitter:creator" content="@auricsoft06">
-      <meta name="twitter:card" content="auricsoft06">
-      <meta name="twitter:title" content="Auricsoft Platform - Premium Software & App Development Company">
-      <meta name="twitter:description" content="">
-      <meta name="twitter:image" content="#">
-      <!--facebook og-->
-      <meta property="og:url" content="#">
-      <meta name="twitter:title" content="">
-      <meta property="og:description" content="">
-      <meta property="og:image" content="#">
-      <meta property="og:image:secure_url" content="#">
-      <meta property="og:image:type" content="image/png">
-      <meta property="og:image:width" content="1200">
-      <meta property="og:image:height" content="600">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--google og-->
+    <meta name="description"
+        content="Auricsoft Platform offers premium software development, web and mobile app development (Android & iOS), IoT solutions, and SaaS product development for startups and enterprises">
+    <meta name="Keywords"
+        content="web Development, web Application development, mobile app development, custom software solutions, e-commerce solutions, CMS, CRM, iOS app development, Android app development, hybrid app development">
+    <meta name="author" content="Auricsoft Platfrom">
+    <meta property="og:title"
+        content="Auricsoft Platform is a premium software development company specializing in web applications, mobile apps (Android & iOS), IoT solutions, and SaaS product development for businesses of all sizes">
+    <meta property="og:url" content="api-development.php">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="1 days">
+    <meta property="og:type"
+        content="web Development, web Application development, mobile app development, custom software solutions, e-commerce solutions, CMS, CRM, iOS app development, Android app development, hybrid app development">
+    <!--twitter og-->
+    <meta name="twitter:site" content="@auricsoft06">
+    <meta name="twitter:creator" content="@auricsoft06">
+    <meta name="twitter:card" content="auricsoft06">
+    <meta name="twitter:title" content="Auricsoft Platform - Premium Software & App Development Company">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:image" content="#">
+    <!--facebook og-->
+    <meta property="og:url" content="#">
+    <meta name="twitter:title" content="">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="#">
+    <meta property="og:image:secure_url" content="#">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="600">
 
     <!-- title  -->
-    <title>Auricsoft Platform - Api Development</title>
+    <title>Auricsoft Platform - Ecommerce Development</title>
 
     <!-- favicon -->
     <link rel="shortcut icon" href="img/logos/favicon.png">
@@ -60,20 +64,20 @@
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-    
+
 
     <style>
-        body {
-            background-color: #f8fafc;
-        }
+    body {
+        background-color: #f8fafc;
+    }
 
-        .benefit-card {
-            background-color: white;
-            border-radius: 0.75rem;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
-            padding: 1.5rem;
-            height: 100%;
-        }
+    .benefit-card {
+        background-color: white;
+        border-radius: 0.75rem;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+        padding: 1.5rem;
+        height: 100%;
+    }
     </style>
 
 </head>
@@ -101,12 +105,12 @@
                     <div class="col-md-12">
                         <div class="text-start">
                             <div class="position-relative">
-                                <h1>Api Development
+                                <h1>E-commerce Development
                                 </h1>
                             </div>
                             <ul>
                                 <li><a href="index.php">Home</a></li>
-                                <li><a href="#!">Api Development</a></li>
+                                <li><a href="#!">E-commerce Development</a></li>
                             </ul>
                         </div>
                     </div>
@@ -123,13 +127,15 @@
             <div class="row mb-5">
                 <!-- Text Content (Web Application Development & Why Your Business Needs It) -->
                 <div class="col-md-6">
-                    <h2>What is API Development
+                    <h2>What is E-commerce Development?
                     </h2>
                     <p>
-                        API (Application Programming Interface) Development is the process of designing, building, and
-                        maintaining the interfaces that allow different software systems to communicate and share data
-                        securely. APIs enable your platforms, apps, and third-party services to interact in real
-                        time—creating a seamless digital ecosystem.
+                        E-commerce Development refers to the process of creating online platforms that allow businesses
+                        to buy and sell products or services through the internet. It includes designing the storefront,
+                        integrating payment gateways, setting up inventory management, and ensuring a smooth, secure
+                        user experience across devices.
+
+
 
 
 
@@ -138,24 +144,23 @@
 
                     </p>
                     <p>
-                        At Auricsoft Platform, we specialize in custom API solutions that are robust, secure, scalable,
-                        and developer-friendly—helping your business unlock new integrations, automate workflows, and
-                        innovate faster.
-                    </p>
-
-                    <p>API Development: Seamlessly connect systems and services with secure, scalable, and
-                        well-documented APIs.
+                        At Auricsoft, we specialize in building robust, user-centric, and scalable E-commerce websites
+                        and mobile apps tailored to your unique business needs.
 
 
                     </p>
 
-                    <!-- Why Your Business Needs It -->
+                    <p>With the rapid growth of digital shopping, having a reliable and feature-rich E-commerce platform
+                        is no longer optional—it's essential.
+
+                    </p>
+
 
                 </div>
 
                 <!-- Image Content -->
                 <div class="col-md-6">
-                    <img src="img/api/api-pic1.png" class="d-block w-100" alt="Web Application Development">
+                    <img src="img/e-commerce/e-commerce.png" class="d-block w-100" alt="Web Application Development">
                 </div>
             </div>
 
@@ -164,82 +169,97 @@
 
             <!-- Benefits Grid -->
             <div class="container my-5">
-                <h2 class="mb-4">Key Benefits of API Development</h2>
+                <h2 class="mb-4">Key Benefits of Our E-commerce Development</h2>
                 <div class="row g-4">
 
-                    <!-- Card 1: System Integration -->
+                    <!-- Card 1: 24/7 Online Storefront -->
                     <div class="col-md-4">
                         <div class="card h-100 border-0 shadow-sm">
                             <div class="card-body">
                                 <h5 class="card-title fw-semibold">
-                                    <i class="fas fa-plug me-2"></i>System Integration
+                                    <i class="fas fa-plug me-2" style="color: black;"></i>24/7 Online Storefront
                                 </h5>
-                                <p class="card-text">Seamlessly connect web, mobile, cloud, or third-party services through custom-built APIs.</p>
+                                <p class="card-text">
+                                    Sell anytime, anywhere without geographical or time-zone limitations.
+                                </p>
                             </div>
                         </div>
                     </div>
-                
-                    <!-- Card 2: Scalability & Flexibility -->
+
+                    <!-- Card 2: Increased Revenue Potential -->
                     <div class="col-md-4">
                         <div class="card h-100 border-0 shadow-sm">
                             <div class="card-body">
                                 <h5 class="card-title fw-semibold">
-                                    <i class="fas fa-expand-alt me-2"></i>Scalability & Flexibility
+                                    <i class="fas fa-chart-line me-2" style="color: black;"></i>Increased Revenue
+                                    Potential
                                 </h5>
-                                <p class="card-text">APIs enable modular development, making it easy to scale specific components without overhauling entire systems.</p>
+                                <p class="card-text">
+                                    Reach a wider audience and convert traffic into real sales with optimized funnels.
+                                </p>
                             </div>
                         </div>
                     </div>
-                
-                    <!-- Card 3: Faster Time to Market -->
+
+                    <!-- Card 3: Mobile-Friendly Shopping -->
                     <div class="col-md-4">
                         <div class="card h-100 border-0 shadow-sm">
                             <div class="card-body">
                                 <h5 class="card-title fw-semibold">
-                                    <i class="fas fa-tachometer-alt me-2"></i>Faster Time to Market
+                                    <i class="fas fa-mobile-alt me-2" style="color: black;"></i>Mobile-Friendly Shopping
                                 </h5>
-                                <p class="card-text">Reuse backend services and connect to partner platforms quickly, accelerating your digital product launches.</p>
+                                <p class="card-text">
+                                    Seamless experience across devices for customers on-the-go.
+                                </p>
                             </div>
                         </div>
                     </div>
-                
-                    <!-- Card 4: Security & Access Control -->
+
+                    <!-- Card 4: Customizable Features -->
                     <div class="col-md-4">
                         <div class="card h-100 border-0 shadow-sm">
                             <div class="card-body">
                                 <h5 class="card-title fw-semibold">
-                                    <i class="fas fa-shield-alt me-2"></i>Security & Access Control
+                                    <i class="fas fa-sliders-h me-2" style="color: black;"></i>Customizable Features
                                 </h5>
-                                <p class="card-text">Ensure safe data exchange using OAuth, JWT, API keys, and rate limiting for reliable access control.</p>
+                                <p class="card-text">
+                                    From coupon codes to product filters and loyalty programs—built the way you want.
+                                </p>
                             </div>
                         </div>
                     </div>
-                
-                    <!-- Card 5: Business Automation -->
+
+                    <!-- Card 5: Integrated Payments & Logistics -->
                     <div class="col-md-4">
                         <div class="card h-100 border-0 shadow-sm">
                             <div class="card-body">
                                 <h5 class="card-title fw-semibold">
-                                    <i class="fas fa-robot me-2"></i>Business Automation
+                                    <i class="fas fa-shipping-fast me-2" style="color: black;"></i>Integrated Payments &
+                                    Logistics
                                 </h5>
-                                <p class="card-text">Automate tasks like payment processing, CRM updates, notifications, and inventory sync through API endpoints.</p>
+                                <p class="card-text">
+                                    Smooth checkout with gateways like Razorpay, Stripe, UPI, and shipping APIs.
+                                </p>
                             </div>
                         </div>
                     </div>
-                
-                    <!-- Card 6: Developer Efficiency -->
+
+                    <!-- Card 6: Scalability & Security -->
                     <div class="col-md-4">
                         <div class="card h-100 border-0 shadow-sm">
                             <div class="card-body">
                                 <h5 class="card-title fw-semibold">
-                                    <i class="fas fa-code me-2"></i>Developer Efficiency
+                                    <i class="fas fa-lock me-2" style="color: black;"></i>Scalability & Security
                                 </h5>
-                                <p class="card-text">APIs enable streamlined development and testing, boosting team productivity and reducing redundancy.</p>
+                                <p class="card-text">
+                                    Designed to grow with your business, with SSL, firewall, and fraud protection.
+                                </p>
                             </div>
                         </div>
                     </div>
-                
+
                 </div>
+
 
             </div>
 
@@ -250,12 +270,15 @@
             <!-- Why Your Business Needs Web Application Development (Full Width - col-12) -->
             <div class="row mb-5">
                 <div class="col-12">
-                    <h2>Why Your Business Needs Api Development</h2>
+                    <h2>Why Your Business Needs E-commerce Development</h2>
                     <p>
-                        APIs are the backbone of digital transformation—empowering your business to connect systems,
-                        automate processes, and scale faster. Whether you're integrating third-party tools, building
-                        mobile apps, or streamlining operations, custom APIs give you flexibility, speed, and control to
-                        innovate efficiently.
+                        In today’s digital-first world, consumers expect convenience, speed, and accessibility. An
+                        effective E-commerce platform allows your business to operate 24/7, reach customers across the
+                        globe, and streamline the buying process like never before. Whether you're a small retailer or a
+                        large enterprise, E-commerce development helps you reduce operational costs, improve customer
+                        engagement, and drive consistent revenue by making your products and services just a click away.
+
+
                     </p>
                 </div>
             </div>
@@ -263,40 +286,47 @@
 
             <!-- Our Approach -->
             <div class="mb-5">
-                <h2>Our Approach to Api Development</h2>
+                <h2>Our Approach to E-commerce Development</h2>
                 <p>
-                    We adopt an API-first strategy, prioritizing API design from the outset to ensure seamless
-                    integration, scalability, and optimal developer experience. By treating APIs as foundational
-                    products, we facilitate modular development, enabling faster iterations and consistent performance
-                    across platforms.
+                    At Auricsoft, we follow a client-first approach to E-commerce development—starting with deep
+                    research into your business goals and customer needs. From strategy and design to development and
+                    deployment, every step is focused on creating a seamless, high-performing online store that’s
+                    scalable, secure, and easy to manage.
+
+
 
                 </p>
             </div>
 
 
             <div class="container my-5">
-                <h2 class="mb-4">Types of APIs We Develop</h2>
+                <h2 class="mb-4">Types of E-commerce Solutions We Build</h2>
                 <div class="row g-4">
 
                     <!-- Card 1 -->
                     <div class="col-md-4">
                         <div class="card h-100 border-0 shadow-sm">
-                            <img src="img/api/card1.png" class="card-img-top" alt="RESTful API">
+                            <img src="img/e-commerce/1.jpg" class="card-img-top" alt="RESTful API">
                             <div class="card-body">
-                                <h5 class="card-title">RESTful APIs</h5>
-                                <p class="card-text">Lightweight, scalable APIs using HTTP methods and structured JSON
-                                    responses.</p>
+                                <h5 class="card-title">B2C Online Stores
+                                </h5>
+                                <p class="card-text">For businesses selling directly to consumers. </p>
                             </div>
+
+
                         </div>
                     </div>
 
                     <!-- Card 2 -->
                     <div class="col-md-4">
                         <div class="card h-100 border-0 shadow-sm">
-                            <img src="img/api/card2.png" class="card-img-top" alt="GraphQL API">
+                            <img src="img/e-commerce/2.jpg" class="card-img-top" alt="GraphQL API">
                             <div class="card-body">
-                                <h5 class="card-title">GraphQL APIs</h5>
-                                <p class="card-text">Flexible and efficient APIs for complex front-end applications.</p>
+                                <h5 class="card-title">Dropshipping Platforms
+                                </h5>
+                                <p class="card-text">Automated store setups for inventory-free retailing.
+
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -304,10 +334,14 @@
                     <!-- Card 3 -->
                     <div class="col-md-4">
                         <div class="card h-100 border-0 shadow-sm">
-                            <img src="img/api/card3.png" class="card-img-top" alt="Webhooks">
+                            <img src="img/e-commerce/3.jpg" class="card-img-top" alt="Webhooks">
                             <div class="card-body">
-                                <h5 class="card-title">Webhooks</h5>
-                                <p class="card-text">Real-time notifications and event-driven integrations.</p>
+                                <h5 class="card-title">Subscription-based E-commerce
+                                </h5>
+                                <p class="card-text">Products or services sold on recurring plans (e.g., digital goods,
+                                    boxes, courses).
+
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -326,12 +360,12 @@
                     Let's Build Together
                 </a>
             </div>
-            </div>
+        </div>
 
 
-            <!-- FOOTER
+        <!-- FOOTER
         ================================================== -->
-            <?php include 'footer.php';?>
+        <?php include 'footer.php';?>
 
 
         <!-- BUY TEMPLATE

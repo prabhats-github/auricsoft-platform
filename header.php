@@ -13,7 +13,8 @@
                                 <nav class="navbar navbar-expand-lg navbar-light p-0">
                                     <div class="navbar-header navbar-header-custom">
                                         <!-- start logo -->
-                                        <a href="index.php" class="navbar-brand"><img id="logo" src="img/logos/auricsoft-logo-w.png" alt="logo" /></a>
+                                        <a href="index.php" class="navbar-brand"><img id="logo"
+                                                src="img/logos/auricsoft-logo-w.png" alt="logo" /></a>
                                         <!-- end logo -->
                                     </div>
 
@@ -21,51 +22,58 @@
 
                                     <!-- start menu area -->
                                     <ul class="navbar-nav ms-auto" id="nav" style="display: none;">
-                                        <li><a href="index.php">Home</a></li>
-                                        
+                                        <li><a href="index.php" title="Home | Auricsoft Platform">Home</a></li>
+
                                         <li>
-                                            <a href="#">Services</a>
+                                            <a href="#"
+                                                title="Services | Services Provider Company in India">Services</a>
                                             <ul>
-                                                <li><a href="web-development-services.php">Web Application Development</a></li>
-                                                <li><a href="mobile-app-development.php">Mobile Apps Developent</a></li>
-                                                <li><a href="saas-product-development.php">SaaS Product Developent</a></li>
-                                                <li><a href="blockchain-development.php">Blockchain Developent</a></li>
-                                                <li><a href="ai-software-development.php">AI Software Developent</a></li>
-                                                <li><a href="api-development.php">API Developent</a></li>
+                                                <li><a href="web-application-development.php"
+                                                        title="Web App Design & Development Company in India">Web
+                                                        Application Development</a></li>
+                                                <li><a href="mobile-application-development.php"
+                                                        title="Mobile App Development Services for Android & iOS in India">Mobile
+                                                        Application Development</a></li>
+                                                <li><a href="saas-product-development.php"
+                                                        title="Custom SaaS Product Development Company in India">SaaS
+                                                        Product Development</a></li>
+                                                <li><a href="blockchain-development.php"
+                                                        title="Blockchain App Development Solutions in India">Blockchain
+                                                        Development</a></li>
+                                                <li><a href="ai-software-development.php"
+                                                        title="AI Software Development & Automation Services in India">AI
+                                                        Software Development</a></li>
+                                                <li><a href="api-development.php"
+                                                        title="Secure & Scalable API Development Services in India">API
+                                                        Development</a></li>
+                                                <li><a href="ecommerce-development.php"
+                                                        title="E-commerce Services in India">E-commerce
+                                                        Development</a></li>
                                             </ul>
                                         </li>
-                                        <li>
-                                            <a href="#">Products</a>
-                                            <ul>
-                                                <li><a href="#">School ERP</a></li>
-                                                <li><a href="#">Jwellery Store ERP</a></li>
-                                                <li><a href="#">Ecommerce Software</a></li>
-                                               
-                                                <li><a href="#">CRM & ERP</a></li>
-                                                
-                                            </ul>
+
+
+                                        <li><a href="work-with-us.php" title="Work With Us | Auricsoft Platform">Work With Us</a>
                                         </li>
-                                       
-                                      
-                                        <li><a href="work-with-us.php">Work With Us</a></li>
-                                         
+
+                                        <li><a href="about.php" title="About | Auricsoft Platform">About Us</a></li>
+
+
                                         <li>
-                                            <a href="#!">Connect To Us</a>
-                                            <ul>
-                                                <li><a href="about.php">About Us</a></li>
-                                                <li><a href="contact.php">Contact</a></li>
-                                                
-                                            </ul>
+                                            <a href="contact.php" title="Contact | Auricsoft Platform">Connect To Us</a>
+                                            
                                         </li>
-                                        
+
                                     </ul>
                                     <!-- end menu area -->
 
                                     <!-- start attribute navigation -->
                                     <div class="attr-nav align-items-xl-center ms-xl-auto main-font">
                                         <ul>
-                                           
-                                            <li class="d-none d-xl-inline-block"><a href="contact.php" class="btn-style1 white-hover small"><span>Free Quote</span></a></li>
+
+                                            <li class="d-none d-xl-inline-block"><a href="contact.php"
+                                                    class="btn-style1 white-hover small"><span>Free Quote</span></a>
+                                            </li>
                                         </ul>
                                     </div>
                                     <!-- end attribute navigation -->

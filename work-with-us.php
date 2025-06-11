@@ -2,20 +2,46 @@
 <html lang="en">
 
 
-<!-- Mirrored from flywebhtml.websitelayout.net/how-we-work.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Sep 2023 14:01:10 GMT -->
 
 <head>
 
     <!-- metas -->
     <meta charset="utf-8">
-    <meta name="author" content="Website Design Templates">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta name="keywords" content="Web Design Agency HTML Template">
-    <meta name="description" content="Flyweb - Web Design Agency HTML Template">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--google og-->
+    <meta name="description"
+        content="Auricsoft Platform offers premium software development, web and mobile app development (Android & iOS), IoT solutions, and SaaS product development for startups and enterprises">
+    <meta name="Keywords"
+        content="web Development, web Application development, mobile app development, custom software solutions, e-commerce solutions, CMS, CRM, iOS app development, Android app development, hybrid app development">
+    <meta name="author" content="Auricsoft Platfrom">
+    <meta property="og:title"
+        content="Auricsoft Platform is a premium software development company specializing in web applications, mobile apps (Android & iOS), IoT solutions, and SaaS product development for businesses of all sizes">
+    <meta property="og:url" content="work-with-us.php">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="1 days">
+    <meta property="og:type"
+        content="web Development, web Application development, mobile app development, custom software solutions, e-commerce solutions, CMS, CRM, iOS app development, Android app development, hybrid app development">
+    <!--twitter og-->
+    <meta name="twitter:site" content="@auricsoft06">
+    <meta name="twitter:creator" content="@auricsoft06">
+    <meta name="twitter:card" content="auricsoft06">`
+    <meta name="twitter:title" content="Auricsoft Platform - Premium Software & App Development Company">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:image" content="#">
+    <!--facebook og-->
+    <meta property="og:url" content="#">
+    <meta name="twitter:title" content="">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="#">
+    <meta property="og:image:secure_url" content="#">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="600">
 
     <!-- title  -->
-    <title>Flyweb - Web Design Agency HTML Template</title>
+    <title>Auricsoft Platform - Work With Us</title>
 
     <!-- favicon -->
     <link rel="shortcut icon" href="img/logos/favicon.png">
@@ -35,6 +61,8 @@
     <!-- theme core css -->
     <link href="css/styles.css" rel="stylesheet">
 
+
+
 </head>
 
 <body>
@@ -51,7 +79,7 @@
         ================================================== -->
 
 
-        <?php include 'header.php';?>
+        <?php include 'header.php'; ?>
 
 
 
@@ -130,208 +158,252 @@
 
             <hr class="my-5" />
 
-            <section class="py-5">
-                <div class="container">
-                    <h2 class="mb-4 text-center fw-bold">Current Openings</h2>
-                    <div class="row">
-                        <div class="col-md-6">
-                            <ul class="list-unstyled">
-                                <li class="mb-3"><i class="fas fa-code text-primary me-2"></i>Front-End Developer
-                                    (React, Vue, Angular)</li>
-                                <li class="mb-3"><i class="fas fa-server text-success me-2"></i>Back-End Developer
-                                    (Node.js, Laravel, Django)</li>
-                                <li class="mb-3"><i class="fas fa-laptop-code text-warning me-2"></i>Full Stack
-                                    Developer</li>
-                                <li class="mb-3"><i class="fas fa-mobile-alt text-info me-2"></i>Mobile App Developer
-                                    (Flutter, Kotlin, Swift)</li>
-                                <li class="mb-3"><i class="fas fa-pencil-ruler text-danger me-2"></i>UI/UX Designer</li>
-                            </ul>
-                        </div>
-                        <div class="col-md-6">
-                            <ul class="list-unstyled">
-                                <li class="mb-3"><i class="fas fa-bullhorn text-primary me-2"></i>Digital Marketing
-                                    Specialist</li>
-                                <li class="mb-3"><i class="fas fa-pen-nib text-success me-2"></i>Content Writer</li>
-                                <li class="mb-3"><i class="fas fa-tasks text-warning me-2"></i>Project Manager</li>
-                                <li class="mb-3"><i class="fas fa-vial text-info me-2"></i>QA Engineer</li>
-                                <li class="mb-3"><i class="fas fa-cogs text-danger me-2"></i>DevOps Engineer</li>
-                            </ul>
+            <section class="py-5 bg-white">
+                <div class="row align-items-stretch">
+
+                    <!-- Left Column: Job Titles -->
+                    <div class="col-md-12 d-flex flex-column justify-content-between">
+                        <h3 class="fw-bold mb-4 text-dark">Join Our Team As:</h3>
+                        <div class="table-responsive">
+                            <table class="table table-bordered table-striped">
+                                <thead class="table-primary">
+                                    <tr>
+                                        <th>Post</th>
+                                        <th>Skills</th>
+                                        <th>Minimum Experience</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Web Designer</td>
+                                        <td>HTML, CSS, Bootstrap, Figma</td>
+                                        <td>1-2 Years</td>
+                                    </tr>
+                                    <tr>
+                                        <td>PHP Developer</td>
+                                        <td>PHP, MySQL, Laravel</td>
+                                        <td>2-3 Years</td>
+                                    </tr>
+                                    <tr>
+                                        <td>React Developer</td>
+                                        <td>ReactJS, JavaScript, Redux</td>
+                                        <td>2-3 Years</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Android Developer</td>
+                                        <td>Java/Kotlin, Android Studio, Firebase</td>
+                                        <td>1-2 Years</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Business Development Executive</td>
+                                        <td>Sales, Communication, CRM Tools</td>
+                                        <td>1-2 Years</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Business Development Manager</td>
+                                        <td>Team Management, Strategy, Sales</td>
+                                        <td>2-3 Years</td>
+                                    </tr>
+                                </tbody>
+                            </table>
                         </div>
                     </div>
-                    <p class="mt-4 text-center"><em>Don’t see your role listed? We’d still love to hear from you!<br>
-                            Email us at <a href="mailto:join@auricsoft.com">join@auricsoft.com</a></em></p>
+
+                    <div class="container py-4">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8 col-md-10 col-sm-12 text-center">
+                                <p class="fs-5 mb-4">
+                                    <strong>Location:</strong> Roorkee / Dehradun / New Delhi <br>
+                                    <strong>Share Resume to:</strong>
+                                    <a href="mailto:info@auricsoft.com"
+                                        class="text-decoration-none text-danger">info@auricsoft.com</a>
+                                </p>
+                                <button type="button" class="btn btn-primary">Call Us: <a href="tel:+91-8650155151"
+                                        class="text-white">+91-8650155151</a></button>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+                    <hr class="my-5" />
+
+                    <h2 class="mb-4 text-center">Technologies We Love</h2>
+                    <p class="text-center mb-5">We thrive on innovation and build with the latest technologies:</p>
+
+                    <div class="row g-4">
+                        <div class="col-md-4">
+                            <div class="card h-100 shadow-sm border-0">
+                                <div class="card-body">
+                                    <h5 class="card-title"><i class="fas fa-code me-2 text-primary"></i>Languages</h5>
+                                    <p class="card-text">JavaScript, PHP, Python, Java</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="card h-100 shadow-sm border-0">
+                                <div class="card-body">
+                                    <h5 class="card-title"><i
+                                            class="fas fa-layer-group me-2 text-success"></i>Frameworks</h5>
+                                    <p class="card-text">React, Angular, Vue.js, Laravel</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="card h-100 shadow-sm border-0">
+                                <div class="card-body">
+                                    <h5 class="card-title"><i class="fas fa-mobile-alt me-2 text-info"></i>Mobile</h5>
+                                    <p class="card-text">Flutter, React Native, Swift</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="card h-100 shadow-sm border-0">
+                                <div class="card-body">
+                                    <h5 class="card-title"><i class="fas fa-globe me-2 text-warning"></i>CMS</h5>
+                                    <p class="card-text">WordPress, Shopify, Magento</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="card h-100 shadow-sm border-0">
+                                <div class="card-body">
+                                    <h5 class="card-title"><i class="fas fa-server me-2 text-danger"></i>DevOps</h5>
+                                    <p class="card-text">AWS, Azure, Docker, Git</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="card h-100 shadow-sm border-0">
+                                <div class="card-body">
+                                    <h5 class="card-title"><i class="fas fa-pencil-ruler me-2 text-secondary"></i>Design
+                                    </h5>
+                                    <p class="card-text">Figma, Adobe XD</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <hr class="my-5" />
+
+                    <section class="py-5 ">
+                        <div class="container">
+                            <div class="text-center mb-5">
+                                <h2 class="fw-bold">Life at Auricsoft</h2>
+                                <p class="lead text-muted">Where passion meets purpose, and every day feels like a step
+                                    toward
+                                    something extraordinary.</p>
+                            </div>
+
+                            <div class="row align-items-center mb-5">
+                                <div class="col-md-6">
+                                    <h4 class="fw-semibold mb-3"><i
+                                            class="fas fa-handshake text-primary me-2"></i>Culture of
+                                        Collaboration</h4>
+                                    <p>From daily standups to spontaneous brainstorming over coffee, we thrive on
+                                        teamwork. Our
+                                        culture empowers every voice—whether you’re a new intern or a senior architect.
+                                    </p>
+
+                                    <h4 class="fw-semibold mt-4 mb-3"><i
+                                            class="fas fa-rocket text-success me-2"></i>Innovation
+                                        in Every Line of Code</h4>
+                                    <p>At Auricsoft, you're not just writing code—you’re creating experiences. We
+                                        encourage bold
+                                        ideas and back them with the freedom and support to bring them to life.</p>
+                                </div>
+                                <div class="col-md-6">
+                                    <img src="img/work-with-us/girl3.jpg" alt="Life at Auricsoft"
+                                        class="img-fluid rounded shadow">
+                                </div>
+                            </div>
+
+                            <div class="row text-center">
+                                <div class="col-md-3 mb-4">
+                                    <i class="fas fa-glass-cheers fa-2x text-warning mb-2"></i>
+                                    <h6 class="fw-bold">Team Celebrations</h6>
+                                    <p class="text-muted small">We celebrate wins—big and small—together.</p>
+                                </div>
+                                <div class="col-md-3 mb-4">
+                                    <i class="fas fa-heart fa-2x text-danger mb-2"></i>
+                                    <h6 class="fw-bold">People First</h6>
+                                    <p class="text-muted small">Flexible hours, wellness support & empathy-driven
+                                        leadership.
+                                    </p>
+                                </div>
+                                <div class="col-md-3 mb-4">
+                                    <i class="fas fa-laptop-code fa-2x text-info mb-2"></i>
+                                    <h6 class="fw-bold">Tech Playground</h6>
+                                    <p class="text-muted small">Experiment with tools, languages, and ideas freely.</p>
+                                </div>
+                                <div class="col-md-3 mb-4">
+                                    <i class="fas fa-lightbulb fa-2x text-primary mb-2"></i>
+                                    <h6 class="fw-bold">Creative Energy</h6>
+                                    <p class="text-muted small">Weekly hackathons, idea fests & design jams.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+
+
                 </div>
-            </section>
 
 
-            
-            <hr class="my-5" />
-
-            <h2 class="mb-4 text-center">Technologies We Love</h2>
-            <p class="text-center mb-5">We thrive on innovation and build with the latest technologies:</p>
-
-            <div class="row g-4">
-                <div class="col-md-4">
-                    <div class="card h-100 shadow-sm border-0">
-                        <div class="card-body">
-                            <h5 class="card-title"><i class="fas fa-code me-2 text-primary"></i>Languages</h5>
-                            <p class="card-text">JavaScript, PHP, Python, Java</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="card h-100 shadow-sm border-0">
-                        <div class="card-body">
-                            <h5 class="card-title"><i class="fas fa-layer-group me-2 text-success"></i>Frameworks</h5>
-                            <p class="card-text">React, Angular, Vue.js, Laravel</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="card h-100 shadow-sm border-0">
-                        <div class="card-body">
-                            <h5 class="card-title"><i class="fas fa-mobile-alt me-2 text-info"></i>Mobile</h5>
-                            <p class="card-text">Flutter, React Native, Swift</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="card h-100 shadow-sm border-0">
-                        <div class="card-body">
-                            <h5 class="card-title"><i class="fas fa-globe me-2 text-warning"></i>CMS</h5>
-                            <p class="card-text">WordPress, Shopify, Magento</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="card h-100 shadow-sm border-0">
-                        <div class="card-body">
-                            <h5 class="card-title"><i class="fas fa-server me-2 text-danger"></i>DevOps</h5>
-                            <p class="card-text">AWS, Azure, Docker, Git</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="card h-100 shadow-sm border-0">
-                        <div class="card-body">
-                            <h5 class="card-title"><i class="fas fa-pencil-ruler me-2 text-secondary"></i>Design</h5>
-                            <p class="card-text">Figma, Adobe XD</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <hr class="my-5" />
-
-            <section class="py-5 ">
-                <div class="container">
-                    <div class="text-center mb-5">
-                        <h2 class="fw-bold">Life at Auricsoft</h2>
-                        <p class="lead text-muted">Where passion meets purpose, and every day feels like a step toward
-                            something extraordinary.</p>
-                    </div>
-
-                    <div class="row align-items-center mb-5">
-                        <div class="col-md-6">
-                            <h4 class="fw-semibold mb-3"><i class="fas fa-handshake text-primary me-2"></i>Culture of
-                                Collaboration</h4>
-                            <p>From daily standups to spontaneous brainstorming over coffee, we thrive on teamwork. Our
-                                culture empowers every voice—whether you’re a new intern or a senior architect.</p>
-
-                            <h4 class="fw-semibold mt-4 mb-3"><i class="fas fa-rocket text-success me-2"></i>Innovation
-                                in Every Line of Code</h4>
-                            <p>At Auricsoft, you're not just writing code—you’re creating experiences. We encourage bold
-                                ideas and back them with the freedom and support to bring them to life.</p>
-                        </div>
-                        <div class="col-md-6">
-                            <img src="img/work-with-us/girl3.jpg" alt="Life at Auricsoft"
-                                class="img-fluid rounded shadow">
-                        </div>
-                    </div>
-
-                    <div class="row text-center">
-                        <div class="col-md-3 mb-4">
-                            <i class="fas fa-glass-cheers fa-2x text-warning mb-2"></i>
-                            <h6 class="fw-bold">Team Celebrations</h6>
-                            <p class="text-muted small">We celebrate wins—big and small—together.</p>
-                        </div>
-                        <div class="col-md-3 mb-4">
-                            <i class="fas fa-heart fa-2x text-danger mb-2"></i>
-                            <h6 class="fw-bold">People First</h6>
-                            <p class="text-muted small">Flexible hours, wellness support & empathy-driven leadership.
-                            </p>
-                        </div>
-                        <div class="col-md-3 mb-4">
-                            <i class="fas fa-laptop-code fa-2x text-info mb-2"></i>
-                            <h6 class="fw-bold">Tech Playground</h6>
-                            <p class="text-muted small">Experiment with tools, languages, and ideas freely.</p>
-                        </div>
-                        <div class="col-md-3 mb-4">
-                            <i class="fas fa-lightbulb fa-2x text-primary mb-2"></i>
-                            <h6 class="fw-bold">Creative Energy</h6>
-                            <p class="text-muted small">Weekly hackathons, idea fests & design jams.</p>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-
+                <!-- PRICING
+        ================================================== -->
 
         </div>
 
-
-        <!-- PRICING
+        <!-- FOOTER
         ================================================== -->
-
-    </div>
-
-    <!-- FOOTER
-        ================================================== -->
-    <?php include 'footer.php';?>
+        <?php include 'footer.php'; ?>
 
 
-    <!-- BUY TEMPLATE
+        <!-- BUY TEMPLATE
     ================================================== -->
-    <!-- <div class="buy-theme alt-font d-none d-lg-inline-block"><a href="https://themeforest.net/item/flyweb-web-design-agency-html-template/47327075" target="_blank"><i class="fas fa-cart-plus"></i><span>Buy Template</span></a></div>
+        <!-- <div class="buy-theme alt-font d-none d-lg-inline-block"><a href="https://themeforest.net/item/flyweb-web-design-agency-html-template/47327075" target="_blank"><i class="fas fa-cart-plus"></i><span>Buy Template</span></a></div>
 
     <div class="all-demo alt-font d-none d-lg-inline-block"><a href="https://themeforest.net/user/websitedesigntemplates" target="_blank"><i class="far fa-envelope"></i><span>Quick Question?</span></a></div> -->
 
-    <!-- SCROLL TO TOP
+        <!-- SCROLL TO TOP
     ================================================== -->
-    <a href="#!" class="scroll-to-top"><i class="fas fa-angle-up" aria-hidden="true"></i></a>
+        <a href="#!" class="scroll-to-top"><i class="fas fa-angle-up" aria-hidden="true"></i></a>
 
-    <!-- all js include start -->
+        <!-- all js include start -->
 
-    <!-- jQuery -->
-    <script src="js/jquery.min.js"></script>
+        <!-- jQuery -->
+        <script src="js/jquery.min.js"></script>
 
-    <!-- popper js -->
-    <script src="js/popper.min.js"></script>
+        <!-- popper js -->
+        <script src="js/popper.min.js"></script>
 
-    <!-- bootstrap -->
-    <script src="js/bootstrap.min.js"></script>
+        <!-- bootstrap -->
+        <script src="js/bootstrap.min.js"></script>
 
-    <!-- jquery -->
-    <script src="js/core.min.js"></script>
+        <!-- jquery -->
+        <script src="js/core.min.js"></script>
 
-    <!-- search -->
-    <script src="search/search.js"></script>
+        <!-- search -->
+        <script src="search/search.js"></script>
 
-    <!-- custom scripts -->
-    <script src="js/main.js"></script>
+        <!-- custom scripts -->
+        <script src="js/main.js"></script>
 
-    <!-- form plugins js -->
-    <script src="quform/js/plugins.js"></script>
+        <!-- form plugins js -->
+        <script src="quform/js/plugins.js"></script>
 
-    <!-- form scripts js -->
-    <script src="quform/js/scripts.js"></script>
+        <!-- form scripts js -->
+        <script src="quform/js/scripts.js"></script>
 
-    <!-- all js include end -->
+        <!-- all js include end -->
 
 </body>
 
