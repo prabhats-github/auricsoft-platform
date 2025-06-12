@@ -285,16 +285,7 @@
                 </div>
             </div>
 
-            <!-- Full-width CTA Section -->
-            <div class="text-center my-5 w-100"
-                style="background: linear-gradient(to right, #007bff, #0056b3); color: white; padding: 2rem 0;">
-                <h2 class="text-white">Have a Web App Idea?</h2>
-                <p>Get in touch with our expert developers and turn your vision into a real-world product.</p>
-                <a href="#contact" class="btn btn-lg mt-3"
-                    style="background: linear-gradient(to right, #ff7e5f, #feb47b); color: white; border: none; border-radius: 50px; padding: 0.75rem 2rem; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: all 0.3s ease;">
-                    Let's Build Together
-                </a>
-            </div>
+           
 
             </div>
 

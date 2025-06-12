@@ -7,34 +7,38 @@
 
     <!-- metas -->
     <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <!--google og-->
-      <meta name="description" content="Auricsoft Platform offers premium software development, web and mobile app development (Android & iOS), IoT solutions, and SaaS product development for startups and enterprises">
-      <meta name="Keywords" content="web Development, web Application development, mobile app development, custom software solutions, e-commerce solutions, CMS, CRM, iOS app development, Android app development, hybrid app development">
-      <meta name="author" content="Auricsoft Platfrom">
-      <meta property="og:title" content="Auricsoft Platform is a premium software development company specializing in web applications, mobile apps (Android & iOS), IoT solutions, and SaaS product development for businesses of all sizes">
-      <meta property="og:url" content="api-development.php">
-      <meta name="robots" content="index, follow">
-      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-      <meta name="language" content="English">
-      <meta name="revisit-after" content="1 days">
-      <meta property="og:type" content="web Development, web Application development, mobile app development, custom software solutions, e-commerce solutions, CMS, CRM, iOS app development, Android app development, hybrid app development">
-      <!--twitter og-->
-      <meta name="twitter:site" content="@auricsoft06">
-      <meta name="twitter:creator" content="@auricsoft06">
-      <meta name="twitter:card" content="auricsoft06">
-      <meta name="twitter:title" content="Auricsoft Platform - Premium Software & App Development Company">
-      <meta name="twitter:description" content="">
-      <meta name="twitter:image" content="#">
-      <!--facebook og-->
-      <meta property="og:url" content="#">
-      <meta name="twitter:title" content="">
-      <meta property="og:description" content="">
-      <meta property="og:image" content="#">
-      <meta property="og:image:secure_url" content="#">
-      <meta property="og:image:type" content="image/png">
-      <meta property="og:image:width" content="1200">
-      <meta property="og:image:height" content="600">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--google og-->
+    <meta name="description"
+        content="Auricsoft Platform offers premium software development, web and mobile app development (Android & iOS), IoT solutions, and SaaS product development for startups and enterprises">
+    <meta name="Keywords"
+        content="web Development, web Application development, mobile app development, custom software solutions, e-commerce solutions, CMS, CRM, iOS app development, Android app development, hybrid app development">
+    <meta name="author" content="Auricsoft Platfrom">
+    <meta property="og:title"
+        content="Auricsoft Platform is a premium software development company specializing in web applications, mobile apps (Android & iOS), IoT solutions, and SaaS product development for businesses of all sizes">
+    <meta property="og:url" content="api-development.php">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="1 days">
+    <meta property="og:type"
+        content="web Development, web Application development, mobile app development, custom software solutions, e-commerce solutions, CMS, CRM, iOS app development, Android app development, hybrid app development">
+    <!--twitter og-->
+    <meta name="twitter:site" content="@auricsoft06">
+    <meta name="twitter:creator" content="@auricsoft06">
+    <meta name="twitter:card" content="auricsoft06">
+    <meta name="twitter:title" content="Auricsoft Platform - Premium Software & App Development Company">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:image" content="#">
+    <!--facebook og-->
+    <meta property="og:url" content="#">
+    <meta name="twitter:title" content="">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="#">
+    <meta property="og:image:secure_url" content="#">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="600">
 
     <!-- title  -->
     <title>Auricsoft Platform - Api Development</title>
@@ -60,20 +64,20 @@
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-    
+
 
     <style>
-        body {
-            background-color: #f8fafc;
-        }
+    body {
+        background-color: #f8fafc;
+    }
 
-        .benefit-card {
-            background-color: white;
-            border-radius: 0.75rem;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
-            padding: 1.5rem;
-            height: 100%;
-        }
+    .benefit-card {
+        background-color: white;
+        border-radius: 0.75rem;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+        padding: 1.5rem;
+        height: 100%;
+    }
     </style>
 
 </head>
@@ -174,11 +178,12 @@
                                 <h5 class="card-title fw-semibold">
                                     <i class="fas fa-plug me-2"></i>System Integration
                                 </h5>
-                                <p class="card-text">Seamlessly connect web, mobile, cloud, or third-party services through custom-built APIs.</p>
+                                <p class="card-text">Seamlessly connect web, mobile, cloud, or third-party services
+                                    through custom-built APIs.</p>
                             </div>
                         </div>
                     </div>
-                
+
                     <!-- Card 2: Scalability & Flexibility -->
                     <div class="col-md-4">
                         <div class="card h-100 border-0 shadow-sm">
@@ -186,11 +191,12 @@
                                 <h5 class="card-title fw-semibold">
                                     <i class="fas fa-expand-alt me-2"></i>Scalability & Flexibility
                                 </h5>
-                                <p class="card-text">APIs enable modular development, making it easy to scale specific components without overhauling entire systems.</p>
+                                <p class="card-text">APIs enable modular development, making it easy to scale specific
+                                    components without overhauling entire systems.</p>
                             </div>
                         </div>
                     </div>
-                
+
                     <!-- Card 3: Faster Time to Market -->
                     <div class="col-md-4">
                         <div class="card h-100 border-0 shadow-sm">
@@ -198,11 +204,12 @@
                                 <h5 class="card-title fw-semibold">
                                     <i class="fas fa-tachometer-alt me-2"></i>Faster Time to Market
                                 </h5>
-                                <p class="card-text">Reuse backend services and connect to partner platforms quickly, accelerating your digital product launches.</p>
+                                <p class="card-text">Reuse backend services and connect to partner platforms quickly,
+                                    accelerating your digital product launches.</p>
                             </div>
                         </div>
                     </div>
-                
+
                     <!-- Card 4: Security & Access Control -->
                     <div class="col-md-4">
                         <div class="card h-100 border-0 shadow-sm">
@@ -210,11 +217,12 @@
                                 <h5 class="card-title fw-semibold">
                                     <i class="fas fa-shield-alt me-2"></i>Security & Access Control
                                 </h5>
-                                <p class="card-text">Ensure safe data exchange using OAuth, JWT, API keys, and rate limiting for reliable access control.</p>
+                                <p class="card-text">Ensure safe data exchange using OAuth, JWT, API keys, and rate
+                                    limiting for reliable access control.</p>
                             </div>
                         </div>
                     </div>
-                
+
                     <!-- Card 5: Business Automation -->
                     <div class="col-md-4">
                         <div class="card h-100 border-0 shadow-sm">
@@ -222,11 +230,12 @@
                                 <h5 class="card-title fw-semibold">
                                     <i class="fas fa-robot me-2"></i>Business Automation
                                 </h5>
-                                <p class="card-text">Automate tasks like payment processing, CRM updates, notifications, and inventory sync through API endpoints.</p>
+                                <p class="card-text">Automate tasks like payment processing, CRM updates, notifications,
+                                    and inventory sync through API endpoints.</p>
                             </div>
                         </div>
                     </div>
-                
+
                     <!-- Card 6: Developer Efficiency -->
                     <div class="col-md-4">
                         <div class="card h-100 border-0 shadow-sm">
@@ -234,11 +243,12 @@
                                 <h5 class="card-title fw-semibold">
                                     <i class="fas fa-code me-2"></i>Developer Efficiency
                                 </h5>
-                                <p class="card-text">APIs enable streamlined development and testing, boosting team productivity and reducing redundancy.</p>
+                                <p class="card-text">APIs enable streamlined development and testing, boosting team
+                                    productivity and reducing redundancy.</p>
                             </div>
                         </div>
                     </div>
-                
+
                 </div>
 
             </div>
@@ -316,22 +326,13 @@
             </div>
 
 
-            <!-- Full-width CTA Section -->
-            <div class="text-center my-5 w-100"
-                style="background: linear-gradient(to right, #007bff, #0056b3); color: white; padding: 2rem 0;">
-                <h2 class="text-white">Have a Web App Idea?</h2>
-                <p>Get in touch with our expert developers and turn your vision into a real-world product.</p>
-                <a href="#contact" class="btn btn-lg mt-3"
-                    style="background: linear-gradient(to right, #ff7e5f, #feb47b); color: white; border: none; border-radius: 50px; padding: 0.75rem 2rem; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: all 0.3s ease;">
-                    Let's Build Together
-                </a>
-            </div>
-            </div>
+
+        </div>
 
 
-            <!-- FOOTER
+        <!-- FOOTER
         ================================================== -->
-            <?php include 'footer.php';?>
+        <?php include 'footer.php';?>
 
 
         <!-- BUY TEMPLATE
